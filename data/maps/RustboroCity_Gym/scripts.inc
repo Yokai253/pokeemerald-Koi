@@ -26,7 +26,7 @@ RustboroCity_Gym_EventScript_RoxanneDefeated::
 	end
 
 RustboroCity_Gym_EventScript_GiveRockTomb::
-	giveitem ITEM_TM_ROCK_TOMB
+	giveitem ITEM_TM_DIG
 	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
 	setflag FLAG_RECEIVED_TM_ROCK_TOMB
 	msgbox RustboroCity_Gym_Text_ExplainRockTomb, MSGBOX_DEFAULT
@@ -117,9 +117,10 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "And that's where I come in!\n"
 	.string "I'm here to provide expert advice!\p"
 	.string "ROXANNE, the GYM LEADER, is a user\n"
-	.string "of ROCK-type POKéMON.\p"
-	.string "The ROCK type is very durable, but\n"
+	.string "of GROUND-type POKéMON.\p"
+	.string "The GROUND type is very durable, but\n"
 	.string "it can't stand WATER-type and\l"
+	.string "ICE-type and\l"
 	.string "GRASS-type moves.\p"
 	.string "Come see me afterwards, if you beat\n"
 	.string "the GYM LEADER.\p"
@@ -130,7 +131,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "My cheering must've worked!\p"
 	.string "Great!\n"
 	.string "Check your TRAINER CARD.\p"
-	.string "The STONE BADGE you got should be\n"
+	.string "The GROUND BADGE you got should be\n"
 	.string "properly recorded on it.\p"
 	.string "In other words…\p"
 	.string "You've climbed the first step on\n"
@@ -145,7 +146,7 @@ RustboroCity_Gym_Text_JoshDefeat:
 	.string "You were too good for me…$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
-	.string "You haven't seen anything of the ROCK\n"
+	.string "You haven't seen anything of the GROUND\n"
 	.string "type's terrifying power!$"
 
 RustboroCity_Gym_Text_TommyIntro:
@@ -163,24 +164,24 @@ RustboroCity_Gym_Text_TommyPostBattle:
 RustboroCity_Gym_Text_MarcIntro:
 	.string "We might be in the middle of town,\n"
 	.string "but so what?\p"
-	.string "My ROCK POKéMON need room to\n"
+	.string "My GROUND POKéMON need room to\n"
 	.string "rampage!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
 	.string "Oh, man oh man!\n"
-	.string "Our challenger is one feisty customer!$"
+	.string "I HATE YOU.$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
 	.string "I have to hand it to our LEADER.\p"
 	.string "It took smarts and sense for her to\n"
-	.string "pick the ROCK type at her young age.$"
+	.string "pick the GROUND type at her young age.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
 	.string "Hello, I am ROXANNE, the RUSTBORO\n"
 	.string "POKéMON GYM LEADER.\p"
 	.string "I became a GYM LEADER so that I might\n"
 	.string "apply what I learned at the POKéMON\l"
-	.string "TRAINER'S SCHOOL in battle.\p"
+	.string "TRAINER'S COLLEGE in battle.\p"
 	.string "Would you kindly demonstrate how you\n"
 	.string "battle, and with which POKéMON?$"
 
@@ -194,24 +195,25 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "that TRAINERS are to be given this\l"
 	.string "if they defeat a GYM LEADER.\p"
 	.string "Please accept the official POKéMON\n"
-	.string "LEAGUE STONE BADGE.$"
+	.string "LEAGUE GROUND BADGE.$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
-	.string "{PLAYER} received the STONE BADGE\n"
+	.string "{PLAYER} received the GROUND BADGE\n"
 	.string "from ROXANNE.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
-	.string "The STONE BADGE heightens the ATTACK\n"
+	.string "The GROUND BADGE heightens the ATTACK\n"
 	.string "power of your POKéMON.\p"
 	.string "It also enables them to use the HM move\n"
 	.string "CUT outside of battle.\p"
 	.string "Please take this with you, too.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
-	.string "That TECHNICAL MACHINE, TM39,\n"
-	.string "contains ROCK TOMB.\p"
-	.string "It not only inflicts damage by dropping\n"
-	.string "rocks, it also lowers SPEED.\p"
+	.string "That TECHNICAL MACHINE, TM28,\n"
+	.string "contains DIG.\p"
+	.string "It conceals you for a turn, in which\n"
+	.string "you deal a surprise attack to your\l"
+	.string "opponent!\p"
 	.string "If you use a TM, it instantly teaches\n"
 	.string "the move to a POKéMON.\p"
 	.string "Remember, a TM can be used only once,\n"

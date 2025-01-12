@@ -1016,10 +1016,12 @@ void SendOut(u32 sourceLine, struct BattlePokemon *, u32 partyIndex);
                                      MESSAGE(name ", come back!");                \
                                      MESSAGE(name ", OK! Come back!");            \
                                      MESSAGE(name ", good! Come back!");          \
+                                     MESSAGE(name ", great job! Return!");          \
                                  }
 
 #define SEND_IN_MESSAGE(name)    ONE_OF {                                            \
                                      MESSAGE("Go! " name "!");                       \
+                                     MESSAGE("Come on out! " name "!");                       \
                                      MESSAGE("Do it! " name "!");                    \
                                      MESSAGE("Go for it, " name "!");                \
                                      MESSAGE("Your foe's weak! Get 'em, " name "!"); \

@@ -1074,3 +1074,11 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/LittlerootTown_GronndsHouse1F/scripts.inc"
+
+	.include "data/maps/LittlerootTown_GronndsHouseF2/scripts.inc"
+
+	.include "data/maps/LittlerootTown_BlusHouse/scripts.inc"
+
+	.include "data/maps/LittlerootTown_BlusHouseFloor2/scripts.inc"
