@@ -20724,6 +20724,29 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
         .battleAnimScript = gBattleAnimMove_MalignantChain,
     },
 
+    // Newly Added Moves
+
+    [MOVE_KAISER_IMPACT] = 
+    {
+        .name = COMPOUND_STRING("Kaiser Impact"),
+        .description = COMPOUND_STRING(
+            "Shoot a incredibly powerful\n"
+            "and fast shot. May burn."),
+        .effect = EFFECT_HIT,
+        .power = 180,
+        .type = TYPE_FIRE,
+        .accuracy = 85,
+        .pp = 3,
+        .target = MOVE_TARGET_SELECTED,
+        .priority = 0,
+        .category = DAMAGE_CATEGORY_PHYSICAL,
+        .additionalEffects = ADDITIONAL_EFFECTS({
+            .moveEffect = MOVE_EFFECT_BURN,
+            .chance = 30,
+        }),
+        .battleAnimScript = gBattleAnimMove_PyroBall,
+    },
+
     // Z-Moves
     [MOVE_BREAKNECK_BLITZ] =
     {

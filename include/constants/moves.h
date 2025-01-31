@@ -910,7 +910,13 @@
 
 #define MOVES_COUNT_GEN9 848
 
-#define MOVES_COUNT         MOVES_COUNT_GEN9
+// Newly Added Moves
+#define MOVE_KAISER_IMPACT 849
+
+#define MOVES_COUNT_NEW 850
+
+
+#define MOVES_COUNT         MOVES_COUNT_NEW
 
 // Z Moves
 #define MOVE_BREAKNECK_BLITZ (MOVES_COUNT + 0)

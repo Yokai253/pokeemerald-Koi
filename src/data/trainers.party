@@ -4589,106 +4589,152 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Roar
 
 === TRAINER_SIDNEY ===
-Name: SIDNEY
+Name: KAITO
 Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer / Force Setup First Turn
-Mugshot: Purple
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching / Hp Aware
+Mugshot: Blue
 
-Mightyena
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Roar
-- Double Edge
-- Sand Attack
-- Crunch
+Braviary-Hisui (M) @ Life Orb  
+Ability: Tinted Lens  
+Level: 47
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Esper Wing  
+- Air Slash  
+- Roost  
+- Shadow Ball  
 
-Shiftry
+Sceptile @ Sceptilite  
+Ability: Overgrow 
+Level: 47
+Tera Type: Grass  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Dragon Pulse  
+- Energy Ball  
+- Focus Blast  
+- Earthquake  
+
+Rillaboom @ Grassy Seed  
+Ability: Grassy Surge  
+Level: 47
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Drum Beating  
+- Acrobatics  
+- Earthquake  
+
+Swellow @ Flame Orb  
+Ability: Guts  
 Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Torment
-- Double Team
-- Swagger
-- Extrasensory
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Double-Edge  
+- Steel Wing  
+- Facade  
 
-Cacturne
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Leech Seed
-- Feint Attack
-- Needle Arm
-- Cotton Spore
-
-Crawdaunt
+Ogerpon-Hearthflame (F) @ Hearthflame Mask  
+Ability: Mold Breaker  
 Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Surf
-- Swords Dance
-- Strength
-- Facade
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ivy Cudgel  
+- Horn Leech  
+- Play Rough  
+- Swords Dance  
 
-Absol @ Sitrus Berry
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
 Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rock Slide
-- Swords Dance
-- Slash
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dual Wingbeat  
+- Counter
+- Earthquake  
+- Crabhammer
 
 === TRAINER_PHOEBE ===
-Name: PHOEBE
+Name: MADD
 Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
-Mugshot: Green
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching / Hp Aware
+Mugshot: Blue
 
-Dusclops
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Punch
-- Confuse Ray
-- Curse
-- Protect
-
-Banette
+Bronzong @ Leftovers  
+Ability: Levitate   
 Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Grudge
-- Will O Wisp
-- Feint Attack
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Psychic  
+- Body Press  
+- Future Sight  
 
-Sableye
+Vaporeon @ Life Orb  
+Ability: Water Absorb  
 Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Double Team
-- Night Shade
-- Feint Attack
+EVs: 248 HP / 8 Atk / 252 SpA  
+Mild Nature  
+- Shadow Ball  
+- Surf  
+- Ice Beam  
+- Iron Tail  
 
-Banette
+Trevenant @ Sitrus Berry  
+Ability: Harvest  
 Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Psychic
-- Thunderbolt
-- Facade
+Shiny: Yes    
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Shadow Claw  
+- Wood Hammer  
+- Rock Slide  
+- Earthquake  
 
-Dusclops @ Sitrus Berry
+Tinkaton @ Leftovers  
+Ability: Mold Breaker 
+Level: 50
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Gigaton Hammer  
+- Knock Off  
+- Thunder Wave  
+- Stone Edge  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
 Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Ice Beam
-- Rock Slide
-- Earthquake
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Dark Pulse  
+- Shadow Ball  
+- Sludge Wave  
+
+Aegislash @ Weakness Policy  
+Ability: Stance Change  
+Level: 53
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Kings Shield  
+- Shadow Sneak  
+- Sacred Sword  
+- Shadow Claw
 
 === TRAINER_GLACIA ===
 Name: SUN
@@ -4698,7 +4744,7 @@ Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Check Bad Move / Omniscient / Check Viability / Ace Pokemon / Smart Switching / Hp Aware
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching / Hp Aware
 Mugshot: Yellow
 
 Glimmora @ Focus Sash  
@@ -4765,65 +4811,91 @@ Adamant Nature
 - Tera Blast
 
 === TRAINER_DRAKE ===
-Name: DRAKE
+Name: CASANONO
 Class: Elite Four
 Pic: Elite Four Drake
 Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching / Hp Aware
 Mugshot: Blue
 
-Shelgon
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Rock Tomb
-- Dragon Claw
-- Protect
-- Double Edge
+Togekiss @ Spell Tag  
+Ability: Super Luck  
+Level: 55  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Dazzling Gleam  
+- Extrasensory  
+- Shadow Ball  
 
-Altaria
-Level: 54
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Edge
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Flygon @ Assault Vest  
+Ability: Levitate  
+Level: 56  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dragon Claw  
+- First Impression  
+- Dual Wingbeat  
 
-Kingdra
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Smokescreen
-- Dragon Dance
-- Surf
-- Body Slam
+Dragonite @ Dragonium Z  
+Ability: Inner Focus  
+Level: 57  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Skull Bash  
+- Earthquake  
+- Dragon Rush  
+- Extreme Speed  
 
-Flygon
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Flamethrower
-- Crunch
-- Dragon Breath
-- Earthquake
+Gardevoir @ Gardevoirite  
+Ability: Trace  
+Level: 58  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psychic  
+- Energy Ball  
+- Mystical Fire  
 
-Salamence @ Sitrus Berry
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Dragon Claw
-- Rock Slide
-- Crunch
+Reshiram @ Sitrus Berry  
+Ability: Turboblaze  
+Level: 59  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Focus Blast  
+- Earth Power  
+- Fusion Flare  
+
+Butterfree (F) @ Sitrus Berry  
+Ability: Compound Eyes  
+Level: 60  
+Shiny: Yes  
+Gigantamax: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Bug Buzz  
+- Psychic  
+- Electroweb
 
 === TRAINER_ROXANNE_1 ===
-Name: ROXANNE
+Name: CREEPER
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
 Items: Potion / Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
 Hippopotas (F)
 Ability: Sand Stream
@@ -4842,13 +4914,13 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Defog
 
 === TRAINER_BRAWLY_1 ===
-Name: BRAWLY
+Name: GABRIEL
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
 Murkrow @ Lagging Tail
 Ability: Prankster
@@ -4877,272 +4949,349 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Frustration
 
 === TRAINER_WATTSON_1 ===
-Name: WATTSON
+Name: EIRJAA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Magnemite  
+Ability: Magnet Pull  
+Level: 20    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Discharge  
+- Signal Beam  
+- Thunder Wave  
+- Curse  
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Eelektrik  
+Ability: Levitate  
+Level: 22    
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Body Slam  
+- Giga Drain  
+- Electroweb  
+- Headbutt  
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
-
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Pikachu @ Light Ball  
+Ability: Static  
+Level: 24    
+EVs: 156 Def / 60 SpA / 252 Spe  
+Jolly Nature  
+- Thunderbolt  
+- Surf  
+- Play Rough  
+- Fly
 
 === TRAINER_FLANNERY_1 ===
-Name: FLANNERY
+Name: POP
 Class: Leader
 Pic: Leader Flannery
-Gender: Female
+Gender: Male
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Numel
+Lampent  
+Ability: Flash Fire   
 Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Clear Smog  
+- Dark Pulse  
+- Flame Charge  
+- Shadow Ball  
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Armarouge  
+Ability: Weak Armor  
+Level: 25
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Armor Cannon  
+- Aura Sphere  
+- Weather Ball  
+- Stored Power  
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Magcargo  
+Ability: Magma Armor   
+Level: 27
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Earthquake  
+- Heat Wave  
+- Rock Blast  
+- Return  
 
-Torkoal @ White Herb
+Arcanine @ Charcoal  
+Ability: Intimidate  
 Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Extreme Speed  
+- Close Combat  
+- Dragon Pulse  
+- Flamethrower
 
 === TRAINER_NORMAN_1 ===
-Name: NORMAN
+Name: DUST
 Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Spinda
+Snorlax  
+Ability: Thick Fat   
 Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Body Slam  
+- Curse  
+- Earthquake  
+- Thunder Punch  
 
-Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
-
-Linoone
+Porygon2 @ Eviolite  
+Ability: Analytic    
 Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Shadow Ball  
+- Substitute  
+- Rest  
 
-Slaking @ Sitrus Berry
+Toucannon  
+Ability: Skill Link    
+Level: 29
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Seed  
+- Rock Blast  
+- Fury Attack  
+- Dual Wingbeat  
+
+Meloetta @ Aguav Berry  
+Ability: Serene Grace    
 Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Relic Song  
+- Low Kick  
+- Acrobatics  
+- Thunder Wave
 
 === TRAINER_WINONA_1 ===
-Name: WINONA
+Name: MOON
 Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer / Risky
+AI: Basic Trainer / Risky / Ace Pokemon
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
-
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
-
-Pelipper
+Gyarados  
+Ability: Moxie  
 Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Crunch  
+- Waterfall  
+- Earthquake  
 
-Skarmory
+Araquanid  
+Level: 29
+Ability: Water Bubble
+EVs: 252 Atk / 4 SpD / 252 Spe    
+- Liquidation  
+- Leech Life  
+- Poison Jab  
+
+Cloyster  
+Ability: Skill Link   
+Level: 29
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Drill Run  
+
+Cramorant  
+Ability: Gulp Missile   
 Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Surf  
+- Dive  
+- Drill Peck  
+- Throat Chop  
 
-Altaria @ Oran Berry
+Slowbro @ Slowbronite  
+Ability: Own Tempo    
 Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Tri Attack  
+- Flamethrower
 
 === TRAINER_TATE_AND_LIZA_1 ===
-Name: TATE&LIZA
+Name: LOA&SMILEY
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
 Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Basic Trainer / Double Ace Pokemon
 
-Claydol
+Indeedee-F (F)  
+Ability: Psychic Surge    
 Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Alluring Voice  
+- Future Sight  
+- Shadow Ball  
+- Hyper Voice  
 
-Xatu
+Espeon
+Level: 41  
+Ability: Synchronize    
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psychic  
+- Calm Mind  
+- Power Gem    
+
+Exeggutor @ Sitrus Berry  
+Ability: Harvest 
+Level: 41  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Natural Gift  
+- Giga Drain  
+- Future Sight  
+- Barrage  
+
+Malamar  
 Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Ability: Contrary   
+EVs: 248 HP / 8 Atk / 252 Def  
+Relaxed Nature  
+- Protect  
+- Superpower  
+- Trailblaze  
+- Expanding Force  
 
-Lunatone @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Psychic
-- Hypnosis
-- Calm Mind
+Raichu-Alola @ Aloraichium Z
+Level: 42  
+Ability: Surge Surfer   
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Extreme Speed  
+- Psychic  
+- Surf  
+- Thunderbolt
 
-Solrock @ Sitrus Berry
+Absol @ Absolite
 Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Ability: Super Luck  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Sucker Punch  
+- Close Combat  
+- Future Sight  
+- Shadow Claw
 
 === TRAINER_JUAN_1 ===
-Name: JUAN
+Name: GHOST
 Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon
 
-Luvdisc
+Abomasnow @ Icy Rock  
 Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Ability: Snow Warning   
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Blizzard  
+- Earth Power  
+- Earthquake  
+- Energy Ball  
 
-Whiscash
+Froslass (F) @ Never-Melt Ice  
 Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Ability: Snow Cloak   
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Shadow Ball  
+- Psychic  
+- Aurora Veil  
 
-Sealeo
+Weavile @ Black Glasses  
+Level: 42
+Ability: Pressure   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Hone Claws  
+- Icicle Spear  
+- Fake Out  
+- Lash Out  
+
+Cetitan @ Assault Vest  
 Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
+Ability: Thick Fat  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Body Slam  
+- High Horsepower  
+- Icicle Crash  
+- Play Rough  
 
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
+Eiscue @ Flame Orb  
+Level: 44
+Ability: Ice Face  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Icy Wind  
+- Facade  
+- Head Smash  
+- Zen Headbutt  
 
-Kingdra @ Chesto Berry
+Lapras (F) @ Life Orb  
 Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Gigantamax: Yes
+Ability: Shell Armor  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ice Beam  
+- Psychic  
+- Iron Head  
+- Megahorn
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
@@ -6273,63 +6422,79 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLACE ===
-Name: WALLACE
+Name: INK
 Class: Champion
 Pic: Champion Wallace
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore / Full Restore
-Double Battle: No
-AI: Basic Trainer
-Mugshot: Yellow
+Double Battle: Yes
+AI: Smart Trainer / Omniscient / Smart Switching / Hp Aware
+Mugshot: Blue
 
-Wailord
-Level: 57
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Spout
-- Double Edge
-- Blizzard
+Incineroar (M) @ Sitrus Berry  
+Ability: Intimidate  
+Level: 61  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Knock Off  
+- Flare Blitz  
+- Parting Shot  
+- Fake Out  
 
-Tentacruel
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Toxic
-- Hydro Pump
-- Sludge Bomb
-- Ice Beam
+Corviknight (M) @ Sitrus Berry  
+Ability: Mirror Armor  
+Level: 63  
+Gigantamax: Yes  
+EVs: 248 HP / 248 Atk / 12 SpD  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Body Press  
+- Iron Defense  
 
-Ludicolo
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Giga Drain
-- Surf
-- Leech Seed
-- Double Team
+Gardevoir (F) @ Gardevoirite  
+Ability: Synchronize  
+Level: 65  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Calm Mind  
+- Aura Sphere  
+- Psychic  
 
-Whiscash
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Surf
-- Amnesia
-- Hyper Beam
+Calyrex-Shadow @ Leftovers  
+Ability: As One Shadow Rider
+Level: 64  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Draining Kiss  
+- Energy Ball  
+- Psychic  
 
-Gyarados
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dragon Dance
-- Earthquake
-- Hyper Beam
-- Surf
+Dracovish @ Quick Claw
+Ability: Strong Jaw  
+Level: 64  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fishious Rend  
+- Psychic Fangs  
+- Outrage  
+- Crunch  
 
-Milotic @ Sitrus Berry
-Level: 58
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Recover
-- Surf
-- Ice Beam
-- Toxic
+Kommo-o (M) @ Kommonium Z  
+Ability: Soundproof  
+Level: 63  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Clanging Scales  
+- Close Combat  
+- Poison Jab  
+- Drain Punch
 
 === TRAINER_ANDREW ===
 Name: ANDREW
@@ -9484,7 +9649,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLY_VR_1 ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -9493,287 +9658,510 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Gholdengo @ Rocky Helmet  
+Ability: Good as Gold  
+Level: 45   
+EVs: 248 HP / 252 SpA / 4 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Recover  
+- Shadow Ball  
+- Make It Rain  
 
-Delcatty
-Level: 43
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Gastrodon-East (M) @ Leftovers  
+Ability: Storm Drain  
+Level: 46    
+EVs: 252 HP / 4 Atk / 248 SpA / 4 SpD  
+Quiet Nature  
+- Earthquake  
+- Surf  
+- Stealth Rock  
+- Ice Beam  
 
-Roselia
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Rotom-Heat @ Leftovers  
+Ability: Levitate  
+Level: 45    
+EVs: 248 SpA / 8 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Thunder Wave  
+- Dark Pulse  
+- Thunderbolt  
 
-Magneton
-Level: 41
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Crobat @ Odd Incense  
+Ability: Infiltrator  
+Level: 45  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Toxic  
+- Zen Headbutt  
+- Cross Poison  
+- X-Scissor  
 
-Gardevoir
-Level: 45
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Lilligant-Hisui @ Wide Lens  
+Ability: Hustle  
+Level: 45    
+EVs: 248 Atk / 8 SpD / 248 Spe  
+Jolly Nature  
+- Close Combat  
+- Ice Spinner  
+- Petal Blizzard  
+- Victory Dance  
+
+Sylveon @ Flame Orb  
+Ability: Pixilate  
+Level: 45  
+Shiny: Yes  
+Tera Type: Stellar  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Moonblast  
+- Psychic  
+- Shadow Ball  
+- Facade
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Treecko
+Ability: Unburden
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lonely Nature
+- Absorb
+- Low Kick
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 20   
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 20  
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Smack Down  
+- Flamethrower  
 
-Grovyle
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 22   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31    
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 31 
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Grovyle
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31   
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33  
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
-
-Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_BRENDAN_ROUTE_110_TREECKO ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
-
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Combusken
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-=== TRAINER_BRENDAN_ROUTE_119_TREECKO ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
-
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Combusken
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-
-=== TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
-
-Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
-
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Marshtomp
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-=== TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
-Name: BRENDAN
-Class: Rival
-Pic: Brendan
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Basic Trainer
-
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Marshtomp
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-
-=== TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: MAY
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Treecko
+Ability: Unburden
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lonely Nature
+- Absorb
+- Low Kick
+
+=== TRAINER_BRENDAN_ROUTE_110_TREECKO ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 20    
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
+
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 20    
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Smack Down  
+- Flamethrower  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 22   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
+
+=== TRAINER_BRENDAN_ROUTE_119_TREECKO ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31  
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
+
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 31 
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
+
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31    
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33    
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
+
+=== TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Treecko
+Ability: Unburden
+Level: 5
+Lonely Nature
+- Absorb
+- Low Kick
+
+=== TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer
+
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 20   
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
+
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 20    
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Smack Down  
+- Flamethrower  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 22   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
+
+=== TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
+Gender: Male
+Music: Male
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31    
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
+
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 31 
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
+
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31   
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
+
+=== TRAINER_MAY_ROUTE_103_MUDKIP ===
+Name: BLU
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer
+
+Treecko
+Ability: Unburden
+Level: 5
+Lonely Nature
+- Absorb
+- Low Kick
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Grovyle
+Kirlia (M) @ Eviolite
+Ability: Trace
 Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+EVs: 232 HP / 236 Atk / 36 SpD
+Adamant Nature
+- Fire Punch
+- Ice Punch
+- Thunder Punch
+- Zen Headbutt
+
+Cubone (M) @ Thick Club
+Ability: Rock Head
+Level: 20
+EVs: 236 HP / 236 Atk / 36 SpA
+Brave Nature
+- Ancient Power
+- Bonemerang
+- Smack Down
+- Flamethrower
+
+Grovyle (M) @ Sitrus Berry
+Ability: Unburden
+Level: 22
+EVs: 248 Atk / 16 SpA / 244 Spe
+Lonely Nature
+- Mega Drain
+- Bullet Seed
+- Power-Up Punch
+- Acrobatics
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31   
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 31 
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Grovyle
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31    
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33  
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Torchic
+Treecko
+Ability: Unburden
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lonely Nature
+- Absorb
+- Low Kick
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Wingull
 Level: 18
@@ -9788,80 +10176,157 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31    
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-
-Combusken
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
 Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
+
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31  
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Mudkip
+Treecko
+Ability: Unburden
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Lonely Nature
+- Absorb
+- Low Kick
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 20   
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 20  
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Smack Down  
+- Flamethrower  
 
-Marshtomp
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 22    
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kirlia (M) @ Eviolite  
+Ability: Trace  
+Level: 31    
+EVs: 232 HP / 236 Atk / 36 SpD  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Zen Headbutt  
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 31  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Marshtomp
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Aron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 31  
+EVs: 252 HP / 252 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
+
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 33   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Giga Drain  
+- Bullet Seed  
+- Brick Break  
+- Acrobatics
 
 === TRAINER_ISAAC_1 ===
 Name: ISAAC
@@ -10880,7 +11345,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TREECKO ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -10897,7 +11362,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -11004,7 +11469,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -11021,7 +11486,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -12070,7 +12535,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WALLY_MAUVILLE ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12078,12 +12543,30 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Ralts
-Level: 16
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Shellos-East  
+Ability: Storm Drain  
+Level: 18  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Ancient Power  
+- Body Slam  
+- Clear Smog  
+- Chilling Water  
+
+Eevee (F) @ Sitrus Berry  
+Ability: Adaptability  
+Level: 20  
+Shiny: Yes    
+EVs: 236 HP / 236 SpA / 36 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Alluring Voice  
+- Calm Mind  
+- Stored Power
 
 === TRAINER_WALLY_VR_2 ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12092,48 +12575,77 @@ Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Altaria
-Level: 47
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
+Gholdengo @ Rocky Helmet  
+Ability: Good as Gold  
+Level: 45  
+Tera Type: Steel  
+EVs: 248 HP / 252 SpA / 4 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Recover  
+- Shadow Ball  
+- Make It Rain  
 
-Delcatty
-Level: 46
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
+Gastrodon-East (M) @ Leftovers  
+Ability: Storm Drain  
+Level: 46  
+Tera Type: Water  
+EVs: 252 HP / 4 Atk / 248 SpA / 4 SpD  
+Quiet Nature  
+- Earthquake  
+- Surf  
+- Stealth Rock  
+- Ice Beam  
 
-Roselia
-Level: 47
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
+Rotom-Heat @ Leftovers  
+Ability: Levitate  
+Level: 45  
+Tera Type: Electric  
+EVs: 248 SpA / 8 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Thunder Wave  
+- Dark Pulse  
+- Thunderbolt  
 
-Magneton
-Level: 44
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
+Crobat @ Odd Incense  
+Ability: Infiltrator  
+Level: 45  
+Tera Type: Poison  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Toxic  
+- Zen Headbutt  
+- Cross Poison  
+- X-Scissor  
 
-Gardevoir
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Lilligant-Hisui @ Wide Lens  
+Ability: Hustle  
+Level: 45  
+Tera Type: Grass  
+EVs: 248 Atk / 8 SpD / 248 Spe  
+Jolly Nature  
+- Close Combat  
+- Ice Spinner  
+- Petal Blizzard  
+- Victory Dance  
+
+Sylveon @ Flame Orb  
+Ability: Pixilate  
+Level: 45  
+Shiny: Yes  
+Tera Type: Stellar  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Moonblast  
+- Psychic  
+- Shadow Ball  
+- Facade
 
 === TRAINER_WALLY_VR_3 ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12183,7 +12695,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_WALLY_VR_4 ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12233,7 +12745,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_WALLY_VR_5 ===
-Name: WALLY
+Name: KAI
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12283,82 +12795,217 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_BRENDAN_LILYCOVE_MUDKIP ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Lairon @ Life Orb  
+Ability: Rock Head  
+Level: 33   
+EVs: 248 HP / 8 Atk / 248 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
 
-Slugma
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Gallade @ Shell Bell  
+Ability: Sharpness  
+Level: 33    
+EVs: 248 Atk / 12 SpD / 244 Spe  
+Jolly Nature  
+- Aqua Cutter  
+- Shadow Claw  
+- Sacred Sword  
+- Psycho Cut  
 
-Pelipper
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 33  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Grovyle
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Ninjask @ Aguav Berry  
+Ability: Speed Boost  
+Level: 33    
+EVs: 248 Atk / 12 SpA / 248 Spe  
+Lonely Nature  
+- Bug Buzz  
+- Dual Wingbeat  
+- Night Slash  
+- Shadow Ball  
+
+Shedinja @ Wise Glasses  
+Ability: Wonder Guard  
+Level: 33    
+EVs: 252 Atk / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Bug Buzz  
+- Giga Drain  
+- Toxic  
+
+Sceptile @ Sitrus Berry  
+Ability: Unburden  
+Level: 37   
+EVs: 8 Atk / 248 SpA / 248 Spe  
+Mild Nature  
+- Energy Ball  
+- Dragon Pulse  
+- Drain Punch  
+- Acrobatics
 
 === TRAINER_BRENDAN_LILYCOVE_TREECKO ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Lairon @ Life Orb  
+Ability: Rock Head  
+Level: 33    
+EVs: 248 HP / 8 Atk / 248 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
 
-Pelipper
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Gallade @ Shell Bell  
+Ability: Sharpness  
+Level: 33    
+EVs: 248 Atk / 12 SpD / 244 Spe  
+Jolly Nature  
+- Aqua Cutter  
+- Shadow Claw  
+- Sacred Sword  
+- Psycho Cut  
 
-Ludicolo
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 33   
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Combusken
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Ninjask @ Aguav Berry  
+Ability: Speed Boost  
+Level: 33  
+EVs: 248 Atk / 12 SpA / 248 Spe  
+Lonely Nature  
+- Bug Buzz  
+- Dual Wingbeat  
+- Night Slash  
+- Shadow Ball  
+
+Shedinja @ Wise Glasses  
+Ability: Wonder Guard  
+Level: 33    
+EVs: 252 Atk / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Bug Buzz  
+- Giga Drain  
+- Toxic  
+
+Sceptile @ Sitrus Berry  
+Ability: Unburden  
+Level: 37   
+EVs: 8 Atk / 248 SpA / 248 Spe  
+Mild Nature  
+- Energy Ball  
+- Dragon Pulse  
+- Drain Punch  
+- Acrobatics
 
 === TRAINER_BRENDAN_LILYCOVE_TORCHIC ===
-Name: BRENDAN
+Name: GRONND
 Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Lairon @ Life Orb  
+Ability: Rock Head  
+Level: 33    
+EVs: 248 HP / 8 Atk / 248 Def  
+Relaxed Nature  
+- Autotomize  
+- Ancient Power  
+- Body Press  
+- Body Slam  
 
-Ludicolo
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Gallade @ Shell Bell  
+Ability: Sharpness  
+Level: 33    
+EVs: 248 Atk / 12 SpD / 244 Spe  
+Jolly Nature  
+- Aqua Cutter  
+- Shadow Claw  
+- Sacred Sword  
+- Psycho Cut  
 
-Slugma
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Marowak-Alola @ Thick Club  
+Ability: Cursed Body  
+Level: 33    
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Ancient Power  
+- Bonemerang  
+- Shadow Bone  
+- Flamethrower  
 
-Marshtomp
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Ninjask @ Aguav Berry  
+Ability: Speed Boost  
+Level: 33    
+EVs: 248 Atk / 12 SpA / 248 Spe  
+Lonely Nature  
+- Bug Buzz  
+- Dual Wingbeat  
+- Night Slash  
+- Shadow Ball  
+
+Shedinja @ Wise Glasses  
+Ability: Wonder Guard  
+Level: 33  
+EVs: 252 Atk / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Bug Buzz  
+- Giga Drain  
+- Toxic  
+
+Sceptile @ Sitrus Berry  
+Ability: Unburden  
+Level: 37   
+EVs: 8 Atk / 248 SpA / 248 Spe  
+Mild Nature  
+- Energy Ball  
+- Dragon Pulse  
+- Drain Punch  
+- Acrobatics
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -12383,7 +13030,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -12408,7 +13055,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -14157,7 +14804,7 @@ Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -14174,7 +14821,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
-Name: MAY
+Name: BLU
 Class: Rival
 Pic: May
 Gender: Female
@@ -14191,7 +14838,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ROXANNE_2 ===
-Name: ROXANNE
+Name: CREEPER
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14233,7 +14880,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_3 ===
-Name: ROXANNE
+Name: CREEPER
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14283,7 +14930,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_4 ===
-Name: ROXANNE
+Name: CREEPER
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14333,7 +14980,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_5 ===
-Name: ROXANNE
+Name: CREEPER
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14391,7 +15038,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_BRAWLY_2 ===
-Name: BRAWLY
+Name: GABRIEL
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14433,7 +15080,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_3 ===
-Name: BRAWLY
+Name: GABRIEL
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14475,7 +15122,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_4 ===
-Name: BRAWLY
+Name: GABRIEL
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14525,7 +15172,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_5 ===
-Name: BRAWLY
+Name: GABRIEL
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14583,7 +15230,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WATTSON_2 ===
-Name: WATTSON
+Name: EIRJAA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14625,7 +15272,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_3 ===
-Name: WATTSON
+Name: EIRJAA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14675,7 +15322,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_4 ===
-Name: WATTSON
+Name: EIRJAA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14725,7 +15372,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_5 ===
-Name: WATTSON
+Name: EIRJAA
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14783,7 +15430,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_FLANNERY_2 ===
-Name: FLANNERY
+Name: POP
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -14825,7 +15472,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_3 ===
-Name: FLANNERY
+Name: POP
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -14875,7 +15522,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_4 ===
-Name: FLANNERY
+Name: POP
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -14933,7 +15580,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_5 ===
-Name: FLANNERY
+Name: POP
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -14991,7 +15638,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_NORMAN_2 ===
-Name: NORMAN
+Name: DUST
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15033,7 +15680,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_3 ===
-Name: NORMAN
+Name: DUST
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15083,7 +15730,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_4 ===
-Name: NORMAN
+Name: DUST
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15133,7 +15780,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_5 ===
-Name: NORMAN
+Name: DUST
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15191,7 +15838,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_WINONA_2 ===
-Name: WINONA
+Name: MOON
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15241,7 +15888,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_3 ===
-Name: WINONA
+Name: MOON
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15299,7 +15946,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_4 ===
-Name: WINONA
+Name: MOON
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15357,7 +16004,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_5 ===
-Name: WINONA
+Name: MOON
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15415,7 +16062,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_TATE_AND_LIZA_2 ===
-Name: TATE&LIZA
+Name: LOA&SMILEY
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15465,7 +16112,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_3 ===
-Name: TATE&LIZA
+Name: LOA&SMILEY
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15523,7 +16170,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_4 ===
-Name: TATE&LIZA
+Name: LOA&SMILEY
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15581,7 +16228,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_5 ===
-Name: TATE&LIZA
+Name: LOA&SMILEY
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15639,7 +16286,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_JUAN_2 ===
-Name: JUAN
+Name: GHOST
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15689,7 +16336,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_3 ===
-Name: JUAN
+Name: GHOST
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15739,7 +16386,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_4 ===
-Name: JUAN
+Name: GHOST
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15797,7 +16444,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_5 ===
-Name: JUAN
+Name: GHOST
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15900,53 +16547,68 @@ Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Skarmory
-Level: 77
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Toxic
-- Aerial Ace
-- Spikes
+Inteleon (F) @ Loaded Dice  
+Ability: Torrent  
+Level: 80   
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Icicle Spear  
+- Scale Shot  
+- Snipe Shot  
+- Dark Pulse  
+
+Grimmsnarl @ Sitrus Berry  
+Ability: Prankster  
+Level: 80  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Power Whip  
+- Thunder Wave  
+- Darkest Lariat  
+- Play Rough  
+
+Blaziken (F) @ Blazikenite  
+Ability: Speed Boost  
+Level: 80 
+Tera Type: Fire  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Blaze Kick  
+- Earthquake  
+- Poison Jab  
+
+Reuniclus (F) @ Twisted Spoon  
+Ability: Magic Guard  
+Level: 80  
+Shiny: Yes   
+EVs: 252 HP / 252 SpA / 4 SpD   
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Flash Cannon  
+- Night Shade  
+
+Tapu Fini @ Tapunium Z  
+Ability: Misty Surge   
+Level: 80
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Natures Madness  
+- Moonblast  
+- Hydro Pump  
+- Shadow Ball  
+
+Sirfetch’d (F) @ Assault Vest  
+Ability: Scrappy  
+Level: 80
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Close Combat  
+- First Impression  
+- Knock Off  
 - Steel Wing
-
-Claydol
-Level: 75
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Reflect
-- Light Screen
-- Ancient Power
-- Earthquake
-
-Aggron
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Earthquake
-- Solar Beam
-- Dragon Claw
-
-Cradily
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Giga Drain
-- Ancient Power
-- Ingrain
-- Confuse Ray
-
-Armaldo
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Ancient Power
-- Aerial Ace
-- Slash
-
-Metagross @ Sitrus Berry
-Level: 78
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Psychic
-- Meteor Mash
-- Shadow Ball
 
 === TRAINER_ANABEL ===
 Name: ANABEL
@@ -16947,6 +17609,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ogerpon-Wellspring (F) @ Wellspring Mask
 Ability: Water Absorb
+Tera Type: Water
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ivy Cudgel
 - Horn Leech
@@ -16968,3 +17631,74 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Slack Off
 - Shadow Ball
 - Earth Power
+
+=== TRAINER_DIDDYTRON ===
+Name: DIDDYTRON
+Class: Pokemaniac
+Pic: Swimmer
+Gender: Male
+Music: Aqua
+Double Battle: Yes
+AI: Check Viability / Try To Faint / Smart Mon Choices / Ace Pokemon / HP AWARE
+
+Lickilicky (M) @ Sitrus Berry  
+Ability: Own Tempo  
+Level: 50
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Body Press  
+- Body Slam  
+- Lick  
+- Curse  
+
+Typhlosion-Hisui (M) @ Spell Tag  
+Ability: Blaze  
+Level: 50
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Solar Beam  
+- Flamethrower  
+- Infernal Parade  
+- Shadow Ball  
+
+Octillery (M) @ Wise Glasses  
+Ability: Suction Cups  
+Level: 50
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Liquidation  
+- Seed Bomb  
+- Flamethrower  
+- Psychic  
+
+Hypno (M) @ Twisted Spoon  
+Ability: Inner Focus  
+Level: 50 
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Signal Beam  
+- Shadow Ball  
+
+Mr. Rime (M) @ Never-Melt Ice  
+Ability: Ice Body  
+Level: 50
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Psychic  
+- Ice Beam  
+- Thunderbolt  
+- Fake Out  
+
+Slaking (M) @ Flame Orb  
+Ability: Truant  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Play Rough  
+- Facade

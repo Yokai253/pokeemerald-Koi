@@ -18361,6 +18361,7 @@ static const struct LevelUpMove sCinderaceLevelUpLearnset[] = {
     LEVEL_UP_MOVE(46, MOVE_BOUNCE),
     LEVEL_UP_MOVE(54, MOVE_DOUBLE_EDGE),
     LEVEL_UP_MOVE(62, MOVE_COURT_CHANGE),
+    LEVEL_UP_MOVE(65, MOVE_KAISER_IMPACT),
     LEVEL_UP_END
 };
 #endif //P_FAMILY_SCORBUNNY
