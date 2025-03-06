@@ -273,7 +273,7 @@ script Won {
     fadescreen(FADE_TO_BLACK)
     removeobject(27)
     fadescreen(FADE_FROM_BLACK)
-    msgbox("damn didnt even catch it bruh.")
+    msgbox("Guess you're really bad at catching things.")
     return
 }
 
@@ -290,6 +290,6 @@ script RanAway {
     fadescreen(FADE_TO_BLACK)
     removeobject(27)
     fadescreen(FADE_FROM_BLACK)
-    msgbox("fucking scaredy cat.")
+    msgbox("Why would you run from it.")
     return
 }

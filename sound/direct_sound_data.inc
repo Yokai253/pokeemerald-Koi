@@ -6154,6 +6154,11 @@ Cry_Terapagos::
 Cry_Pecharunt::
 	.incbin "sound/direct_sound_samples/cries/pecharunt.bin"
 .endif @ P_FAMILY_PECHARUNT
+	
+	.align 2
+Cry_Jibanyan::
+	.incbin "sound/direct_sound_samples/cries/jibanyan.bin"	
+
 .endif @ P_CRIES_ENABLED
 
 	.align 2
@@ -6391,3 +6396,4 @@ DirectSoundWaveData_sd90_classical_whistle::
 	.align 2
 DirectSoundWaveData_sd90_enhanced_delay_shaku::
 	.incbin "sound/direct_sound_samples/sd90_enhanced_delay_shaku.bin"
+

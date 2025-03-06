@@ -231,13 +231,12 @@ Music: Aqua
 Double Battle: No
 AI: Check Bad Move
 
-Lickitung
-Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Power-Up Punch
-- Cut
-- Lick
-- Wrap
+Dewpider  
+Ability: Water Bubble  
+Level: 10  
+IVs: 0 Atk  
+- Infestation  
+- Water Gun
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -1451,13 +1450,68 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Cacturne
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Politoed @ Damp Rock  
+Ability: Drizzle  
+Level: 60    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Ice Beam  
+- Psychic  
+- Helping Hand  
 
-Pelipper
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Dragonite @ Expert Belt  
+Ability: Multiscale  
+Level: 60    
+EVs: 248 HP / 252 Atk / 4 SpA / 4 Spe  
+Lonely Nature  
+- Breaking Swipe  
+- Thunder  
+- Hurricane  
+- Extreme Speed  
+
+Grimmsnarl @ Focus Sash  
+Ability: Prankster  
+Level: 60   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Sucker Punch  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+
+Porygon-Z @ Life Orb  
+Ability: Adaptability  
+Level: 60    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Ice Beam  
+- Thunderbolt  
+- Shadow Ball  
+
+Incineroar @ Incinium Z  
+Ability: Intimidate  
+Level: 60    
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Fake Out  
+- Darkest Lariat  
+- Flare Blitz  
+- Brick Break  
+
+Hydrapple @ Assault Vest  
+Ability: Supersweet Syrup  
+Level: 60  
+Tera Type: Poison  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+- Fickle Beam  
+- Energy Ball  
+- Earth Power  
+- Tera Blast
 
 === TRAINER_ALBERT ===
 Name: ALBERT
@@ -1469,13 +1523,68 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Magneton
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Pidgeot @ Leftovers  
+Ability: Keen Eye  
+Level: 51  
+Tera Type: Normal  
+EVs: 8 Atk / 252 SpA / 248 Spe  
+Naive Nature  
+- Air Slash  
+- Steel Wing  
+- Whirlwind  
+- Heat Wave  
 
-Muk
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Alakazam @ Twisted Spoon  
+Ability: Magic Guard  
+Level: 51    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Energy Ball  
+- Grass Knot  
+
+Rhydon @ Eviolite  
+Ability: Rock Head  
+Level: 52    
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Iron Defense  
+- Body Press  
+- Double-Edge  
+- Supercell Slam  
+
+Arcanine @ Weakness Policy  
+Ability: Intimidate  
+Level: 53   
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Flare Blitz  
+- Close Combat  
+- Crunch  
+
+Gyarados @ Leftovers  
+Ability: Moxie  
+Level: 54   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Crunch  
+- Earthquake  
+
+Venusaur @ Venusaurite  
+Ability: Overgrow  
+Level: 55    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Energy Ball  
+- Earth Power  
+- Leech Seed
 
 === TRAINER_SAMUEL ===
 Name: SAMUEL
@@ -1487,17 +1596,68 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Swellow
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Spiritomb @ Sitrus Berry  
+Ability: Pressure  
+Level: 55    
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot  
 
-Mawile
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Roserade @ Flame Orb  
+Ability: Poison Point  
+Level: 55    
+EVs: 8 Atk / 252 SpA / 248 Spe  
+Hasty Nature  
+- Energy Ball  
+- Sludge Bomb  
+- Extrasensory  
+- Facade  
 
-Kadabra
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Gastrodon @ Charcoal  
+Ability: Storm Drain  
+Level: 55  
+Tera Type: Fire  
+EVs: 248 HP / 248 SpA / 8 SpD / 4 Spe  
+Modest Nature  
+- Hydro Pump  
+- Earth Power  
+- Ice Beam  
+- Tera Blast  
+
+Lucario @ Lucarionite  
+Ability: Steadfast  
+Level: 55    
+EVs: 8 Atk / 252 SpA / 248 Spe  
+Hasty Nature  
+- Aura Sphere  
+- Dragon Pulse  
+- Psychic  
+- Earthquake  
+
+Milotic @ Waterium Z  
+Ability: Competitive  
+Level: 55  
+EVs: 248 SpA / 12 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aqua Ring  
+- Surf  
+- Ice Beam  
+- Mirror Coat  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+Level: 55  
+EVs: 4 HP / 248 Atk / 4 SpD / 248 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Crunch  
+- Brick Break
 
 === TRAINER_VITO ===
 Name: VITO
@@ -1509,21 +1669,66 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Dodrio
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Mienshao  
+Ability: Regenerator  
+Level: 51  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- U-turn  
+- Close Combat  
+- Acrobatics  
 
-Kadabra
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Luxray @ Flame Orb  
+Ability: Guts  
+Level: 52  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Play Rough  
+- Wild Charge  
+- Crunch  
 
-Electrode
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Lycanroc-Dusk @ Lycanium Z  
+Ability: Tough Claws  
+Level: 53  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Accelerock  
+- Bulk Up  
+- Close Combat  
 
-Shiftry
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Corviknight (M) @ Leftovers  
+Ability: Mirror Armor  
+Level: 55  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Iron Head  
+- Brave Bird  
+- Body Press  
+- Iron Defense  
+
+Altaria @ Altarianite  
+Ability: Natural Cure  
+Level: 55  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Dragon Pulse  
+- Flamethrower  
+- Roost  
+
+Urshifu @ Life Orb  
+Ability: Unseen Fist  
+Gigantamax: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Iron Head  
+- Poison Jab  
+- Close Combat
 
 === TRAINER_OWEN ===
 Name: OWEN
@@ -1535,17 +1740,67 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Kecleon
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Floette-Eternal @ Leftovers  
+Ability: Flower Veil  
+Level: 52    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light of Ruin  
+- Energy Ball  
+- Synthesis  
+- Psychic  
 
-Graveler
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Chesnaught @ Black Belt  
+Ability: Bulletproof  
+Level: 52   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Body Press  
+- Iron Defense  
+- Seed Bomb  
+- Shadow Claw  
 
-Wailord
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Malamar @ Normalium Z  
+Ability: Infiltrator  
+Level: 55   
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Psychic  
+- Happy Hour  
+- Night Slash  
+- Liquidation  
+
+Aurorus @ Never-Melt Ice  
+Ability: Refrigerate  
+Level: 53  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Ancient Power  
+- Hyper Voice  
+- Discharge  
+- Dark Pulse  
+
+Clawitzer @ Wise Glasses  
+Ability: Mega Launcher  
+Level: 51   
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Dark Pulse  
+- Dragon Pulse  
+- Water Pulse  
+- Aqua Jet  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+Level: 52   
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Thousand Arrows  
+- Core Enforcer  
+- Sludge Wave  
+- Focus Blast
 
 === TRAINER_WILTON_2 ===
 Name: WILTON
@@ -1800,9 +2055,67 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Roselia
-Level: 45
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Miltank @ Silk Scarf  
+Ability: Scrappy  
+Level: 51  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Rollout  
+- Body Slam  
+- Milk Drink  
+- Thunder Wave  
+
+Typhlosion @ Groundium Z  
+Ability: Blaze  
+Level: 51    
+EVs: 8 HP / 252 SpA / 248 Spe  
+Hasty Nature  
+- Thrash  
+- Fire Blast  
+- Earthquake  
+- Extrasensory  
+
+Kingdra @ Scope Lens  
+Ability: Sniper  
+Level: 52   
+EVs: 248 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Dragon Pulse  
+- Surf  
+
+Hitmontop @ Sharp Beak  
+Ability: Technician  
+Level: 53  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Aerial Ace  
+- Bullet Punch  
+- Fake Out  
+- Revenge  
+
+Ampharos @ Ampharosite  
+Ability: Static  
+Level: 54    
+EVs: 248 HP / 248 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dragon Pulse  
+- Power Gem  
+- Signal Beam  
+
+Scizor  
+Ability: Technician  
+Level: 55  
+EVs: 248 HP / 248 Atk / 8 SpD / 4 Spe  
+Adamant Nature  
+- Acrobatics  
+- Bullet Punch  
+- Pounce  
+- Cut
 
 === TRAINER_SHANNON ===
 Name: SHANNON
@@ -1814,9 +2127,65 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Claydol
-Level: 45
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+Level: 51    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Weather Ball  
+- Stockpile  
+- Spit Up  
+
+Greninja @ Loaded Dice  
+Ability: Battle Bond  
+Level: 54    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Shuriken  
+- Hydro Pump  
+- Dark Pulse  
+- Toxic Spikes  
+
+Tentacruel @ Fairy Feather  
+Ability: Rain Dish  
+Level: 51  
+EVs: 8 Atk / 248 SpA / 248 Spe  
+Hasty Nature  
+- Gunk Shot  
+- Wring Out  
+- Ice Beam  
+- Dazzling Gleam  
+
+Ludicolo @ Sitrus Berry  
+Ability: Swift Swim  
+Level: 52   
+EVs: 4 Atk / 252 SpA / 248 Spe  
+Mild Nature  
+- Fake Out  
+- Double-Edge  
+- Energy Ball  
+- Scald  
+
+Politoed @ Leftovers  
+Ability: Drizzle  
+Level: 53   
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Ice Beam  
+- Psychic  
+- Helping Hand  
+
+Basculegion-F @ Choice Scarf  
+Ability: Adaptability  
+Level: 55  
+Tera Type: Ghost  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Last Respects
 
 === TRAINER_MICHELLE ===
 Name: MICHELLE
@@ -1828,17 +2197,67 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Torkoal
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Spiritomb @ Sitrus Berry  
+Ability: Pressure  
+Level: 56   
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hypnosis  
+- Dark Pulse  
+- Psychic  
+- Shadow Ball  
 
-Medicham
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Roserade @ Sitrus Berry  
+Ability: Poison Point  
+Level: 55  
+EVs: 248 HP / 4 Atk / 252 Spe  
+Hasty Nature  
+- Poison Jab  
+- Petal Dance  
+- Toxic Spikes  
+- Spikes  
 
-Ludicolo
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Togekiss @ Sitrus Berry  
+Ability: Super Luck  
+Level: 55   
+EVs: 252 SpA / 4 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Air Slash  
+- Yawn  
+
+Arcanine-Hisui @ Sitrus Berry  
+Ability: Intimidate  
+Level: 55   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Raging Fury  
+- Crunch  
+- Rock Slide  
+- Extreme Speed  
+
+Lucario @ Sitrus Berry  
+Ability: Steadfast  
+Level: 55    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- Bulk Up  
+- Close Combat  
+- Crunch  
+
+Garchomp (M) @ Sitrus Berry  
+Ability: Rough Skin  
+Level: 55  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Earth Power  
+- Slash  
+- Dragon Claw  
+- Iron Head
 
 === TRAINER_CAROLINE ===
 Name: CAROLINE
@@ -1850,13 +2269,65 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Skarmory
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Tsareena @ Grassium Z  
+Ability: Leaf Guard  
+Level: 55   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Power Whip  
+- Zen Headbutt  
+- U-turn  
+- High Jump Kick  
 
-Sableye
-Level: 43
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Togedemaru @ Red Card  
+Ability: Iron Barbs   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Zing Zap  
+- Nuzzle  
+- Fell Stinger  
+- Poison Jab  
+
+Comfey @ Big Root  
+Ability: Triage  
+Level: 55   
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Draining Kiss  
+- Encore  
+- Leech Seed  
+
+Turtonator @ Leftovers  
+Ability: Shell Armor  
+Level: 55    
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Earthquake  
+- Dragon Pulse  
+- Flamethrower  
+- Body Press  
+
+Primarina @ Throat Spray  
+Ability: Torrent  
+Level: 55   
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Sparkling Aria  
+- Aqua Jet  
+- Calm Mind  
+- Ice Beam  
+
+Necrozma-Dusk-Mane @ Ultranecrozium Z  
+Ability: Prism Armor  
+Level: 55  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Photon Geyser  
+- Sunsteel Strike  
+- Dragon Dance  
+- Moonlight
 
 === TRAINER_JULIE ===
 Name: JULIE
@@ -1868,17 +2339,63 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Sandslash
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Vanilluxe @ Icy Rock  
+Ability: Snow Warning  
+Level: 52    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Freeze-Dry  
+- Signal Beam  
+- Aurora Veil  
 
-Ninetales
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Archeops @ White Herb  
+Ability: Defeatist  
+Level: 51   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Acrobatics  
+- Dragon Claw  
+- Crunch  
 
-Tropius
-Level: 42
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Carracosta @ Sitrus Berry  
+Ability: Solid Rock  
+Level: 53   
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Crunch  
+- Waterfall  
+- Stone Edge  
+- Aqua Jet  
+
+Klinklang @ Metal Coat  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Giga Impact  
+- Wild Charge  
+- Shift Gear  
+- Flash Cannon  
+
+Zoroark @ Sitrus Berry  
+Ability: Illusion  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Flamethrower  
+- Focus Blast  
+- Night Slash  
+- Hone Claws  
+
+Zekrom @ Magnet  
+Ability: Teravolt   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fusion Bolt  
+- Outrage  
+- Crunch  
+- Steel Wing 
 
 === TRAINER_BROOKE_2 ===
 Name: BROOKE
@@ -2127,9 +2644,12 @@ Items: Full Restore
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon @ Nugget
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Elekid @ Nugget
+Ability: Static  
+Level: 9   
+- Thunder Punch  
+- Fire Punch  
+- Ice Punch
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -4601,7 +5121,7 @@ Mugshot: Blue
 
 Braviary-Hisui (M) @ Life Orb  
 Ability: Tinted Lens  
-Level: 47
+Level: 65
 EVs: 248 HP / 252 SpA / 8 SpD  
 Modest Nature  
 IVs: 0 Atk  
@@ -4612,7 +5132,7 @@ IVs: 0 Atk
 
 Sceptile @ Sceptilite  
 Ability: Overgrow 
-Level: 47
+Level: 65
 Tera Type: Grass  
 EVs: 4 Atk / 252 SpA / 252 Spe  
 Hasty Nature  
@@ -4623,7 +5143,7 @@ Hasty Nature
 
 Rillaboom @ Grassy Seed  
 Ability: Grassy Surge  
-Level: 47
+Level: 65
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Grassy Glide  
@@ -4633,7 +5153,7 @@ Jolly Nature
 
 Swellow @ Flame Orb  
 Ability: Guts  
-Level: 48
+Level: 65
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Brave Bird  
@@ -4643,7 +5163,7 @@ Jolly Nature
 
 Ogerpon-Hearthflame (F) @ Hearthflame Mask  
 Ability: Mold Breaker  
-Level: 48
+Level: 65
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Ivy Cudgel  
@@ -4653,7 +5173,7 @@ Jolly Nature
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 49
+Level: 65
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -4675,7 +5195,7 @@ Mugshot: Blue
 
 Bronzong @ Leftovers  
 Ability: Levitate   
-Level: 49
+Level: 65
 EVs: 252 HP / 252 SpA / 4 SpD  
 Quiet Nature  
 IVs: 0 Atk  
@@ -4686,7 +5206,7 @@ IVs: 0 Atk
 
 Vaporeon @ Life Orb  
 Ability: Water Absorb  
-Level: 50
+Level: 65
 EVs: 248 HP / 8 Atk / 252 SpA  
 Mild Nature  
 - Shadow Ball  
@@ -4696,7 +5216,7 @@ Mild Nature
 
 Trevenant @ Sitrus Berry  
 Ability: Harvest  
-Level: 49
+Level: 65
 Shiny: Yes    
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
@@ -4707,7 +5227,7 @@ Adamant Nature
 
 Tinkaton @ Leftovers  
 Ability: Mold Breaker 
-Level: 50
+Level: 65
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Gigaton Hammer  
@@ -4717,7 +5237,7 @@ Jolly Nature
 
 Gengar @ Gengarite  
 Ability: Cursed Body  
-Level: 51
+Level: 65
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4728,7 +5248,7 @@ IVs: 0 Atk
 
 Aegislash @ Weakness Policy  
 Ability: Stance Change  
-Level: 53
+Level: 65
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Kings Shield  
@@ -4749,7 +5269,7 @@ Mugshot: Yellow
 
 Glimmora @ Focus Sash  
 Ability: Toxic Debris
-Level: 51    
+Level: 65    
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4760,7 +5280,7 @@ IVs: 0 Atk
 
 Pangoro @ Punching Glove   
 Ability: Iron Fist
-Level: 52   
+Level: 65   
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Body Slam  
@@ -4770,7 +5290,7 @@ Adamant Nature
 
 Mienshao @ Sitrus Berry  
 Ability: Regenerator
-Level: 52  
+Level: 65  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Acrobatics  
@@ -4779,8 +5299,9 @@ Jolly Nature
 - Fake Out  
 
 Toxapex @ Poison Barb  
+Happiness: 250
 Ability: Merciless
-Level: 53 
+Level: 65
 EVs: 248 HP / 252 Atk / 8 SpD  
 Adamant Nature  
 - Toxic  
@@ -4790,7 +5311,7 @@ Adamant Nature
 
 Urshifu-Rapid-Strike @ Punching Glove  
 Ability: Unseen Fist
-Level: 54   
+Level: 65   
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Aqua Jet  
@@ -4800,7 +5321,7 @@ Jolly Nature
 
 Sneasler @ Weakness Policy  
 Ability: Unburden 
-Level: 55 
+Level: 65 
 Shiny: Yes  
 Tera Type: Electric  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -4823,7 +5344,7 @@ Mugshot: Blue
 
 Togekiss @ Spell Tag  
 Ability: Super Luck  
-Level: 55  
+Level: 65   
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4834,7 +5355,7 @@ IVs: 0 Atk
 
 Flygon @ Assault Vest  
 Ability: Levitate  
-Level: 56  
+Level: 65   
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Earthquake  
@@ -4844,7 +5365,7 @@ Jolly Nature
 
 Dragonite @ Dragonium Z  
 Ability: Inner Focus  
-Level: 57  
+Level: 65   
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Skull Bash  
@@ -4854,7 +5375,7 @@ Jolly Nature
 
 Gardevoir @ Gardevoirite  
 Ability: Trace  
-Level: 58  
+Level: 65   
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4865,7 +5386,7 @@ IVs: 0 Atk
 
 Reshiram @ Sitrus Berry  
 Ability: Turboblaze  
-Level: 59  
+Level: 65 
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -4876,7 +5397,7 @@ IVs: 0 Atk
 
 Butterfree (F) @ Sitrus Berry  
 Ability: Compound Eyes  
-Level: 60  
+Level: 65  
 Shiny: Yes  
 Gigantamax: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -5664,13 +6185,66 @@ Music: Twins
 Double Battle: No
 AI: Check Bad Move
 
-Taillow @ Oran Berry
-Level: 16
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Charizard @ Charcoal  
+Ability: Blaze  
+Level: 40  
+Tera Type: Electric  
+EVs: 4 HP / 244 SpA / 8 SpD / 248 Spe  
+Timid Nature  
+- Flamethrower  
+- Air Slash  
+- Dragon Pulse  
+- Tera Blast  
 
-Zigzagoon @ Oran Berry
-Level: 16
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Mew @ Mewnium Z  
+Ability: Synchronize  
+Level: 41    
+EVs: 248 Atk / 4 SpA / 248 Spe  
+Hasty Nature  
+- Psychic  
+- Leech Life  
+- Darkest Lariat  
+- Shadow Ball  
+
+Scizor @ Scizorite  
+Ability: Technician  
+Level: 42    
+EVs: 252 HP / 248 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- X-Scissor  
+- Dual Wingbeat  
+- Pounce  
+
+Miltank @ Sitrus Berry  
+Ability: Scrappy  
+Level: 43  
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
+- Rollout  
+- Milk Drink  
+- Attract  
+- Body Slam  
+
+Sableye @ Leftovers  
+Ability: Prankster  
+Level: 44   
+EVs: 252 HP / 4 Atk / 248 SpD / 4 Spe  
+Careful Nature  
+- Thunder Wave  
+- Will-O-Wisp  
+- Toxic  
+- Shadow Claw  
+
+Hariyama @ Flame Orb  
+Ability: Guts  
+Level: 45    
+EVs: 244 HP / 252 Atk / 12 SpD  
+Adamant Nature  
+- Close Combat  
+- Earthquake  
+- Poison Jab  
+- Iron Head
 
 === TRAINER_MIGUEL_1 ===
 Name: MIGUEL
@@ -5803,9 +6377,65 @@ Music: Twins
 Double Battle: No
 AI: Check Bad Move / Try To Faint
 
-Roselia @ Oran Berry
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Empoleon @ Aguav Berry  
+Ability: Competitive  
+Level: 45   
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Surf  
+- Ice Beam  
+- Signal Beam  
+
+Spiritomb @ Life Orb  
+Ability: Pressure  
+Level: 46  
+Tera Type: Poison  
+- Dark Pulse  
+- Psyshock  
+- Shadow Ball  
+- Tera Blast  
+
+Haxorus @ Silver Powder  
+Ability: Mold Breaker  
+Level: 47   
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Close Combat  
+- Crunch  
+- First Impression  
+
+Garbodor @ Sitrus Berry  
+Ability: Weak Armor  
+Level: 48   
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Belch  
+- Sludge Bomb  
+- Body Press  
+- Drain Punch  
+
+Vivillon-Pokeball @ Focus Sash  
+Ability: Shield Dust  
+Level: 49   
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature    
+- Quiver Dance  
+- Bug Buzz  
+- Air Slash  
+- Energy Ball  
+
+Dedenne @ Sitrus Berry  
+Ability: Cheek Pouch  
+Level: 50    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature   
+- Draining Kiss  
+- Thunderbolt  
+- Grass Knot  
+- Signal Beam
 
 === TRAINER_VANESSA ===
 Name: VANESSA
@@ -6016,13 +6646,64 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
-Level: 18
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- High Jump Kick
-- Meditate
-- Confusion
-- Detect
+Tsareena @ Loaded Dice  
+Ability: Sweet Veil  
+Level: 51  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Synthesis  
+- Triple Axel  
+- Bullet Seed  
+- High Jump Kick  
+
+Wishiwashi @ Muscle Band  
+Ability: Schooling  
+Level: 52    
+EVs: 252 HP / 4 Atk / 252 SpA  
+Mild Nature  
+- Hydro Pump  
+- Iron Tail  
+- Ice Beam  
+- Earthquake  
+
+Hatterene @ Big Root  
+Ability: Magic Bounce  
+Level: 53    
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Draining Kiss  
+- Dark Pulse  
+- Mystical Fire  
+
+Falinks @ Muscle Band  
+Ability: Defiant  
+Level: 54    
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Close Combat  
+- No Retreat  
+- Megahorn  
+- Iron Head  
+
+Bellibolt @ Magnet  
+Ability: Electromorphosis  
+Level: 54    
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Thunderbolt  
+- Muddy Water  
+- Sucker Punch  
+- Acid Spray  
+
+Maushold-Four @ Loaded Dice  
+Ability: Technician  
+Level: 55   
+- Population Bomb  
+- Bullet Seed  
+- Play Rough  
+- Aerial Ace
 
 === TRAINER_SHELBY_1 ===
 Name: SHELBY
@@ -6118,9 +6799,12 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Poochyena
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pidove  
+Ability: Big Pecks  
+Level: 5  
+IVs: 0 Atk  
+- Focus Energy  
+- Gust
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -6131,13 +6815,19 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Flabebe-Blue  
+Ability: Flower Veil  
+Level: 5   
+- Covet  
+- Fairy Wind  
+- Endeavor  
 
-Seedot
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Litwick  
+Ability: Flash Fire  
+Level: 7   
+- Flame Charge  
+- Facade  
+- Acid Armor
 
 === TRAINER_JOSH ===
 Name: JOSH
@@ -6388,7 +7078,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALLEN ===
-Name: ALLEN
+Name: SHELDON
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6396,13 +7086,17 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Bunnelby  
+Ability: Pickup  
+Level: 3    
+IVs: 0 Atk  
+- Mud-Slap  
 
-Taillow
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Croagunk  
+Ability: Anticipation  
+Level: 4   
+- Fake Out  
+- Mud-Slap
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -6434,7 +7128,7 @@ Mugshot: Blue
 
 Incineroar (M) @ Sitrus Berry  
 Ability: Intimidate  
-Level: 61  
+Level: 65 
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Knock Off  
@@ -6444,7 +7138,7 @@ Adamant Nature
 
 Corviknight (M) @ Sitrus Berry  
 Ability: Mirror Armor  
-Level: 63  
+Level: 65   
 Gigantamax: Yes  
 EVs: 248 HP / 248 Atk / 12 SpD  
 Adamant Nature  
@@ -6455,7 +7149,7 @@ Adamant Nature
 
 Gardevoir (F) @ Gardevoirite  
 Ability: Synchronize  
-Level: 65  
+Level: 65   
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -6466,7 +7160,7 @@ IVs: 0 Atk
 
 Calyrex-Shadow @ Leftovers  
 Ability: As One Shadow Rider
-Level: 64  
+Level: 65 
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -6477,7 +7171,7 @@ IVs: 0 Atk
 
 Dracovish @ Quick Claw
 Ability: Strong Jaw  
-Level: 64  
+Level: 65 
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -6488,7 +7182,7 @@ Jolly Nature
 
 Kommo-o (M) @ Kommonium Z  
 Ability: Soundproof  
-Level: 63  
+Level: 65  
 EVs: 252 Atk / 4 SpA / 252 Spe  
 Naive Nature  
 - Clanging Scales  
@@ -6526,17 +7220,20 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Magikarp
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Basculin  
+Ability: Adaptability  
+Level: 5  
+- Aqua Jet  
 
-Magikarp
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Basculin-Blue-Striped  
+Ability: Adaptability  
+Level: 6  
+- Aqua Jet  
 
-Magikarp
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Basculin-White-Striped  
+Ability: Adaptability  
+Level: 7  
+- Aqua Jet
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -9003,13 +9700,17 @@ Music: Twins
 Double Battle: Yes
 AI: Check Bad Move
 
-Seedot
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Mareep  
+Ability: Plus  
+Level: 6 
+IVs: 0 Atk  
+- Shock Wave  
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Electrike  
+Ability: Minus
+Level: 6  
+IVs: 0 Atk  
+- Shock Wave
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -9660,7 +10361,7 @@ AI: Basic Trainer
 
 Gholdengo @ Rocky Helmet  
 Ability: Good as Gold  
-Level: 45   
+Level: 60   
 EVs: 248 HP / 252 SpA / 4 SpD / 4 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -9671,7 +10372,7 @@ IVs: 0 Atk
 
 Gastrodon-East (M) @ Leftovers  
 Ability: Storm Drain  
-Level: 46    
+Level: 60    
 EVs: 252 HP / 4 Atk / 248 SpA / 4 SpD  
 Quiet Nature  
 - Earthquake  
@@ -9681,7 +10382,7 @@ Quiet Nature
 
 Rotom-Heat @ Leftovers  
 Ability: Levitate  
-Level: 45    
+Level: 60    
 EVs: 248 SpA / 8 SpD / 248 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -9692,7 +10393,7 @@ IVs: 0 Atk
 
 Crobat @ Odd Incense  
 Ability: Infiltrator  
-Level: 45  
+Level: 60  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Toxic  
@@ -9702,7 +10403,7 @@ Jolly Nature
 
 Lilligant-Hisui @ Wide Lens  
 Ability: Hustle  
-Level: 45    
+Level: 60    
 EVs: 248 Atk / 8 SpD / 248 Spe  
 Jolly Nature  
 - Close Combat  
@@ -9710,10 +10411,10 @@ Jolly Nature
 - Petal Blizzard  
 - Victory Dance  
 
-Sylveon @ Flame Orb  
+Sylveon (F) @ Flame Orb  
 Ability: Pixilate  
-Level: 45  
-Shiny: Yes  
+Level: 60  
+Shiny: Yes
 Tera Type: Stellar  
 EVs: 248 HP / 8 Atk / 252 SpA  
 Quiet Nature  
@@ -9890,45 +10591,45 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Kirlia (M) @ Eviolite  
-Ability: Trace  
+Glaceon @ Never-Melt Ice  
+Ability: Snow Cloak  
 Level: 31  
-EVs: 232 HP / 236 Atk / 36 SpD  
-Adamant Nature  
-- Fire Punch  
-- Ice Punch  
-- Thunder Punch  
-- Zen Headbutt  
+EVs: 248 HP / 244 SpA / 8 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Water Pulse  
+- Shadow Ball  
+- Hyper Voice  
 
-Marowak-Alola @ Thick Club  
-Ability: Cursed Body  
-Level: 31 
-EVs: 248 HP / 252 Atk / 8 SpA  
-Brave Nature  
-- Ancient Power  
-- Bonemerang  
-- Shadow Bone  
-- Flamethrower  
+Kilowattrel @ Expert Belt  
+Ability: Wind Power  
+Level: 31   
+EVs: 252 SpA / 4 SpD / 244 Spe  
+Timid Nature  
+- Tailwind  
+- Thunderbolt  
+- U-turn  
+- Weather Ball  
 
-Aron (M) @ Life Orb  
-Ability: Rock Head  
-Level: 31    
-EVs: 252 HP / 252 Def  
-Relaxed Nature  
-- Autotomize  
-- Ancient Power  
-- Body Press  
-- Body Slam  
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 31  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
 
-Grovyle (M) @ Sitrus Berry  
-Ability: Unburden  
-Level: 33    
-EVs: 248 Atk / 16 SpA / 244 Spe  
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 33  
+Shiny: Yes  
+EVs: 244 HP / 252 Atk / 4 Spe  
 Lonely Nature  
-- Giga Drain  
-- Bullet Seed  
-- Brick Break  
-- Acrobatics
+- Bulldoze  
+- Water Pulse  
+- Low Kick  
+- Bite
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
 Name: GRONND
@@ -10035,7 +10736,7 @@ Lonely Nature
 - Acrobatics
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10043,15 +10744,16 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Treecko
-Ability: Unburden
-Level: 5
-Lonely Nature
-- Absorb
-- Low Kick
+Mudkip (F)  
+Ability: Torrent  
+Level: 5  
+Shiny: Yes      
+Brave Nature    
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10059,87 +10761,80 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Kirlia (M) @ Eviolite
-Ability: Trace
-Level: 20
-EVs: 232 HP / 236 Atk / 36 SpD
-Adamant Nature
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Zen Headbutt
-
-Cubone (M) @ Thick Club
-Ability: Rock Head
-Level: 20
-EVs: 236 HP / 236 Atk / 36 SpA
-Brave Nature
-- Ancient Power
-- Bonemerang
-- Smack Down
-- Flamethrower
-
-Grovyle (M) @ Sitrus Berry
-Ability: Unburden
-Level: 22
-EVs: 248 Atk / 16 SpA / 244 Spe
-Lonely Nature
-- Mega Drain
-- Bullet Seed
-- Power-Up Punch
-- Acrobatics
-
-=== TRAINER_MAY_ROUTE_119_MUDKIP ===
-Name: BLU
-Class: Rival
-Pic: May
-Gender: Female
-Music: Female
-Double Battle: No
-AI: Smart Trainer
-
-Kirlia (M) @ Eviolite  
-Ability: Trace  
-Level: 31   
-EVs: 232 HP / 236 Atk / 36 SpD  
-Adamant Nature  
-- Fire Punch  
-- Ice Punch  
-- Thunder Punch  
-- Zen Headbutt  
-
-Marowak-Alola @ Thick Club  
-Ability: Cursed Body  
-Level: 31 
-EVs: 248 HP / 252 Atk / 8 SpA  
-Brave Nature  
-- Ancient Power  
-- Bonemerang  
-- Shadow Bone  
-- Flamethrower  
-
-Aron (M) @ Life Orb  
-Ability: Rock Head  
-Level: 31    
-EVs: 252 HP / 252 Def  
-Relaxed Nature  
-- Autotomize  
-- Ancient Power  
-- Body Press  
+Eevee @ Normal Gem  
+Ability: Adaptability  
+Level: 20   
 - Body Slam  
 
-Grovyle (M) @ Sitrus Berry  
-Ability: Unburden  
-Level: 33  
-EVs: 248 Atk / 16 SpA / 244 Spe  
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 20    
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 22  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
 Lonely Nature  
-- Giga Drain  
-- Bullet Seed  
-- Brick Break  
-- Acrobatics
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
+
+=== TRAINER_MAY_ROUTE_119_MUDKIP ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Jolteon (F) @ Magnet  
+Ability: Volt Absorb  
+Level: 31    
+EVs: 16 Atk / 248 SpA / 244 Spe  
+Mild Nature  
+- Discharge  
+- Body Slam  
+- Alluring Voice  
+- Agility  
+
+Corvisquire (F) @ Sharp Beak  
+Ability: Big Pecks  
+Level: 31 
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Air Slash  
+- Facade  
+- Hone Claws  
+- U-turn  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 31   
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 33  
+Shiny: Yes   
+EVs: 244 HP / 252 Atk / 4 Spe  
+Lonely Nature  
+- Bulldoze  
+- Water Pulse  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10147,15 +10842,16 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Treecko
-Ability: Unburden
-Level: 5
-Lonely Nature
-- Absorb
-- Low Kick
+Mudkip (F)  
+Ability: Torrent  
+Level: 5  
+Shiny: Yes  
+Brave Nature  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10163,20 +10859,32 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Eevee @ Normal Gem  
+Ability: Adaptability  
+Level: 20  
+- Body Slam  
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 20  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
 
-Combusken
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 22  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
+Lonely Nature  
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10225,7 +10933,7 @@ Lonely Nature
 - Acrobatics
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10233,15 +10941,16 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Treecko
-Ability: Unburden
-Level: 5
-Lonely Nature
-- Absorb
-- Low Kick
+Mudkip (F)  
+Ability: Torrent  
+Level: 5  
+Shiny: Yes  
+Brave Nature  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10249,38 +10958,33 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer
 
-Kirlia (M) @ Eviolite  
-Ability: Trace  
-Level: 20   
-EVs: 232 HP / 236 Atk / 36 SpD  
-Adamant Nature  
-- Fire Punch  
-- Ice Punch  
-- Thunder Punch  
-- Zen Headbutt  
-
-Cubone (M) @ Thick Club  
-Ability: Rock Head  
+Eevee @ Normal Gem  
+Ability: Adaptability  
 Level: 20  
-EVs: 236 HP / 236 Atk / 36 SpA  
-Brave Nature  
-- Ancient Power  
-- Bonemerang  
-- Smack Down  
-- Flamethrower  
+Tera Type: Normal  
+- Body Slam  
 
-Grovyle (M) @ Sitrus Berry  
-Ability: Unburden  
-Level: 22    
-EVs: 248 Atk / 16 SpA / 244 Spe  
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 20  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 22  
+Shiny: Yes  
+EVs: 244 HP / 252 Atk / 4 Spe  
 Lonely Nature  
-- Mega Drain  
-- Bullet Seed  
-- Power-Up Punch  
-- Acrobatics
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -10288,45 +10992,44 @@ Music: Female
 Double Battle: No
 AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Kirlia (M) @ Eviolite  
-Ability: Trace  
-Level: 31    
-EVs: 232 HP / 236 Atk / 36 SpD  
-Adamant Nature  
-- Fire Punch  
-- Ice Punch  
-- Thunder Punch  
-- Zen Headbutt  
-
-Marowak-Alola @ Thick Club  
-Ability: Cursed Body  
-Level: 31  
-EVs: 248 HP / 252 Atk / 8 SpA  
-Brave Nature  
-- Ancient Power  
-- Bonemerang  
-- Shadow Bone  
-- Flamethrower  
-
-Aron (M) @ Life Orb  
-Ability: Rock Head  
-Level: 31  
-EVs: 252 HP / 252 Def  
-Relaxed Nature  
-- Autotomize  
-- Ancient Power  
-- Body Press  
+Vaporeon (F) @ Mystic Water  
+Ability: Water Absorb  
+Level: 31   
+EVs: 244 HP / 16 Atk / 248 SpA  
+Mild Nature  
+- Scald  
 - Body Slam  
+- Flip Turn  
+- Ice Beam  
 
-Grovyle (M) @ Sitrus Berry  
-Ability: Unburden  
-Level: 33   
-EVs: 248 Atk / 16 SpA / 244 Spe  
+Scyther @ Eviolite  
+Ability: Technician  
+Level: 31
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Aerial Ace  
+- Bug Buzz  
+- Facade  
+- Quick Attack  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 31   
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 33  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
 Lonely Nature  
-- Giga Drain  
-- Bullet Seed  
-- Brick Break  
-- Acrobatics
+- Bulldoze  
+- Water Pulse  
+- Low Kick  
+- Bite
 
 === TRAINER_ISAAC_1 ===
 Name: ISAAC
@@ -11353,13 +12056,24 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 13  
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power    
+- Smack Down  
+- Flamethrower  
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 16   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
 Name: GRONND
@@ -11370,13 +12084,24 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 13  
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power    
+- Smack Down  
+- Flamethrower  
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 16   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
 
 === TRAINER_PAXTON ===
 Name: PAXTON
@@ -11477,30 +12202,49 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Cubone (M) @ Thick Club  
+Ability: Rock Head  
+Level: 13  
+EVs: 236 HP / 236 Atk / 36 SpA  
+Brave Nature  
+- Ancient Power    
+- Smack Down  
+- Flamethrower  
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Grovyle (M) @ Sitrus Berry  
+Ability: Unburden  
+Level: 16   
+EVs: 248 Atk / 16 SpA / 244 Spe  
+Lonely Nature  
+- Mega Drain  
+- Bullet Seed  
+- Power-Up Punch  
+- Acrobatics
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: Basic Trainer
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Eevee @ Normal Gem  
+Ability: Adaptability  
+Level: 13   
+- Body Slam   
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 16  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
+Lonely Nature  
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
 
 === TRAINER_MAXIE_MAGMA_HIDEOUT ===
 Name: MAXIE
@@ -11572,13 +12316,16 @@ Music: Female
 Double Battle: No
 AI: Check Bad Move
 
-Lotad
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Pichu  
+Ability: Static  
+Level: 6    
+- Body Slam  
 
-Shroomish
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Chewtle  
+Ability: Strong Jaw  
+Level: 6  
+- Poison Jab  
+- Water Gun
 
 === TRAINER_JANICE ===
 Name: JANICE
@@ -11599,20 +12346,67 @@ Class: Winstrate
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
 
-Marill
-Level: 15
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Kangaskhan (F) @ Kangaskhanite  
+Ability: Scrappy  
+Level: 60
+Tera Type: Normal  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Mega Kick  
+- Outrage  
+- Earthquake  
 
-Shroomish
-Level: 15
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Primarina (F) @ Primarium Z  
+Ability: Liquid Voice 
+Level: 60 
+Tera Type: Water  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Sparkling Aria  
+- Energy Ball  
+- Dazzling Gleam  
 
-Numel
-Level: 15
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Pikachu-Starter @ Light Ball  
+Ability: Static  
+Level: 60
+Tera Type: Electric  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Floaty Fall  
+- Brick Break  
+- Zippy Zap  
+- Splishy Splash  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+Level: 60
+Gigantamax: Yes  
+Tera Type: Ghost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Foul Play  
+- Sludge Wave  
+- Energy Ball  
+
+Terapagos @ Chesto Berry  
+Ability: Tera Shift  
+Level: 60
+Tera Type: Stellar  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 15 Atk  
+- Tera Starstorm  
+- Dazzling Gleam  
+- Calm Mind  
+- Rest
 
 === TRAINER_HALEY_2 ===
 Name: HALEY
@@ -11759,13 +12553,16 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kricketot  
+Ability: Shed Skin  
+Level: 4   
+- Tackle  
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tarountula  
+Ability: Insomnia  
+Level: 4    
+- Trailblaze  
+- Pounce
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -11776,21 +12573,16 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Kricketot  
+Ability: Shed Skin  
+Level: 5   
+- Tackle  
 
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Wurmple
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tarountula  
+Ability: Insomnia  
+Level: 5    
+- Trailblaze  
+- Pounce
 
 === TRAINER_JOSE ===
 Name: JOSE
@@ -11865,13 +12657,18 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dratini  
+Ability: Shed Skin  
+Level: 6  
+- Aqua Jet  
+- Attract  
 
-Nincada
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Zubat  
+Ability: Inner Focus  
+Level: 6    
+- Agility  
+- U-turn  
+- Absorb
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -13005,79 +13802,179 @@ Mild Nature
 - Acrobatics
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Jolteon (F) @ Magnet  
+Ability: Volt Absorb  
+Level: 33   
+EVs: 16 Atk / 248 SpA / 244 Spe  
+Mild Nature  
+- Discharge  
+- Body Slam  
+- Alluring Voice  
+- Agility  
 
-Slugma
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Corvisquire (F) @ Sharp Beak  
+Ability: Big Pecks  
+Level: 33   
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Air Slash  
+- Facade  
+- Hone Claws  
+- U-turn  
 
-Pelipper
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 33 
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
 
-Grovyle
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Slowbro-Galar (M) @ Poison Barb  
+Ability: Quick Draw  
+Level: 33  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Psychic  
+- Flamethrower  
+
+Swampert (F) @ Mystic Water  
+Ability: Torrent  
+Level: 33  
+Shiny: Yes   
+EVs: 244 HP / 252 Atk / 8 SpA / 4 Spe  
+Lonely Nature  
+- Liquidation  
+- Sludge Wave  
+- Earthquake  
+- Body Press
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
+Glaceon @ Never-Melt Ice  
+Ability: Snow Cloak  
+Level: 31  
+EVs: 248 HP / 244 SpA / 8 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Water Pulse  
+- Shadow Ball  
+- Hyper Voice  
+
+Kilowattrel @ Expert Belt  
+Ability: Wind Power  
+Level: 31    
+EVs: 252 SpA / 4 SpD / 244 Spe  
+Timid Nature  
+- Tailwind  
+- Thunderbolt  
+- U-turn  
+- Weather Ball  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 31    
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Slowbro-Galar @ Poison Barb  
+Ability: Quick Draw  
 Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Psychic  
+- Flamethrower  
 
-Pelipper
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-
-Ludicolo
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-
-Combusken
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Swampert (F) @ Mystic Water  
+Ability: Torrent  
+Level: 37  
+Shiny: Yes   
+EVs: 244 HP / 252 Atk / 8 SpA / 4 Spe  
+Lonely Nature  
+- Liquidation  
+- Sludge Wave  
+- Earthquake  
+- Body Press
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Tropius
-Level: 31
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Vaporeon (F) @ Mystic Water  
+Ability: Water Absorb  
+Level: 33  
+EVs: 244 HP / 16 Atk / 248 SpA  
+Mild Nature  
+- Scald  
+- Body Slam  
+- Flip Turn  
+- Ice Beam  
 
-Ludicolo
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Scyther @ Eviolite  
+Ability: Technician  
+Level: 33   
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Aerial Ace  
+- Bug Buzz  
+- Facade  
+- Quick Attack  
 
-Slugma
-Level: 32
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Level: 33 
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
 
-Marshtomp
-Level: 34
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Slowbro-Galar (F) @ Poison Barb  
+Ability: Quick Draw  
+Level: 33   
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Psychic  
+- Flamethrower  
+
+Swampert (F) @ Mystic Water  
+Ability: Torrent  
+Level: 37  
+Shiny: Yes   
+EVs: 244 HP / 252 Atk / 8 SpA / 4 Spe  
+Lonely Nature  
+- Liquidation  
+- Sludge Wave  
+- Earthquake  
+- Body Press
 
 === TRAINER_JONAH ===
 Name: JONAH
@@ -13660,9 +14557,11 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Magikarp
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Wishiwashi  
+Ability: Schooling  
+Level: 9  
+- Aqua Tail  
+- Scale Shot
 
 === TRAINER_HAILEY ===
 Name: HAILEY
@@ -14804,7 +15703,7 @@ Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -14812,16 +15711,24 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Eevee @ Normal Gem  
+Ability: Adaptability  
+Level: 13   
+- Body Slam   
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 16  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
+Lonely Nature  
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
-Name: BLU
+Name: MAY
 Class: Rival
 Pic: May
 Gender: Female
@@ -14829,13 +15736,21 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torkoal
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Eevee @ Normal Gem  
+Ability: Adaptability  
+Level: 13   
+- Body Slam   
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Marshtomp (F) @ Mystic Water  
+Ability: Torrent  
+Level: 16  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 4 Spe  
+Lonely Nature  
+- Mud-Slap  
+- Water Gun  
+- Low Kick  
+- Bite
 
 === TRAINER_ROXANNE_2 ===
 Name: CREEPER
@@ -15439,37 +16354,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Magcargo @ White Herb
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Clodsire @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 65
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Toxic Spikes  
+- Spikes  
+- Earth Power  
+- Gunk Shot  
 
-Ponyta
-Level: 36
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Ninetales @ Leftovers  
+Ability: Drought  
+Level: 65 
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Solar Beam  
+- Weather Ball  
+- Calm Mind  
+- Will-O-Wisp  
 
-Camerupt @ White Herb
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Arcanine @ Life Orb  
+Ability: Intimidate 
+Level: 65 
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+- Aerial Ace  
 
-Torkoal @ White Herb
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Ceruledge @ Weakness Policy  
+Ability: Weak Armor  
+Level: 65
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bitter Blade  
+- Brick Break  
+- Shadow Claw  
+- Poison Jab  
+
+Blacephalon @ Sitrus Berry  
+Ability: Beast Boost  
+Level: 65
+Shiny: Yes    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Flamethrower  
+- Shadow Ball  
+- Psychic  
+
+Marshadow  
+Ability: Technician  
+Level: 65
+Tera Type: Ghost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Revenge  
+- Spectral Thief  
+- Shadow Punch
 
 === TRAINER_FLANNERY_3 ===
 Name: POP
@@ -15481,45 +16428,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Growlithe
-Level: 41
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Helping Hand
-- Flamethrower
-- Roar
-- Sunny Day
+Clodsire @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 75
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Toxic Spikes  
+- Spikes  
+- Earth Power  
+- Gunk Shot  
 
-Magcargo @ White Herb
-Level: 43
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Ninetales @ Leftovers  
+Ability: Drought  
+Level: 75 
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Solar Beam  
+- Weather Ball  
+- Calm Mind  
+- Will-O-Wisp  
 
-Ponyta
-Level: 41
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Arcanine @ Life Orb  
+Ability: Intimidate 
+Level: 75 
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+- Aerial Ace  
 
-Camerupt @ White Herb
-Level: 43
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Ceruledge @ Weakness Policy  
+Ability: Weak Armor  
+Level: 75
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bitter Blade  
+- Brick Break  
+- Shadow Claw  
+- Poison Jab  
 
-Torkoal @ White Herb
-Level: 45
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Blacephalon @ Sitrus Berry  
+Ability: Beast Boost  
+Level: 75
+Shiny: Yes    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Flamethrower  
+- Shadow Ball  
+- Psychic  
+
+Marshadow  
+Ability: Technician  
+Level: 75
+Tera Type: Ghost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Revenge  
+- Spectral Thief  
+- Shadow Punch
 
 === TRAINER_FLANNERY_4 ===
 Name: POP
@@ -15531,53 +16502,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Houndour
-Level: 46
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Roar
-- Solar Beam
-- Taunt
-- Sunny Day
+Clodsire @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 85
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Toxic Spikes  
+- Spikes  
+- Earth Power  
+- Gunk Shot  
 
-Growlithe
-Level: 46
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Helping Hand
-- Flamethrower
-- Sunny Day
-- Roar
+Ninetales @ Leftovers  
+Ability: Drought  
+Level: 85 
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Solar Beam  
+- Weather Ball  
+- Calm Mind  
+- Will-O-Wisp  
 
-Magcargo @ White Herb
-Level: 48
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Arcanine @ Life Orb  
+Ability: Intimidate 
+Level: 85 
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+- Aerial Ace  
 
-Rapidash
-Level: 46
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Ceruledge @ Weakness Policy  
+Ability: Weak Armor  
+Level: 85
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bitter Blade  
+- Brick Break  
+- Shadow Claw  
+- Poison Jab  
 
-Camerupt @ White Herb
-Level: 48
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Blacephalon @ Sitrus Berry  
+Ability: Beast Boost  
+Level: 85
+Shiny: Yes    
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Flamethrower  
+- Shadow Ball  
+- Psychic  
 
-Torkoal @ White Herb
-Level: 50
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Marshadow  
+Ability: Technician  
+Level: 85
+Tera Type: Ghost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Revenge  
+- Spectral Thief  
+- Shadow Punch
 
 === TRAINER_FLANNERY_5 ===
 Name: POP
@@ -15589,53 +16576,69 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Arcanine
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Helping Hand
-- Flamethrower
-- Sunny Day
-- Roar
+Clodsire @ Sitrus Berry  
+Ability: Water Absorb  
+Level: 100
+Tera Type: Poison  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Toxic Spikes  
+- Spikes  
+- Earth Power  
+- Gunk Shot  
 
-Magcargo @ White Herb
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Charizard @ Charizardite X  
+Ability: Tough Claws  
+Level: 100 
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dual Wingbeat  
+- Blaze Kick  
+- Dig  
+- Dragon Claw  
 
-Houndoom
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Roar
-- Solar Beam
-- Taunt
-- Sunny Day
+Arcanine-Hisui @ Leftovers  
+Ability: Intimidate
+Level: 100  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Flare Blitz  
+- Dig  
+- Wild Charge  
 
-Rapidash
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Ceruledge @ Weakness Policy  
+Ability: Weak Armor  
+Level: 100  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bitter Blade  
+- Brick Break  
+- Shadow Claw  
+- Poison Jab  
 
-Camerupt @ White Herb
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Blacephalon @ Sitrus Berry  
+Ability: Beast Boost  
+Level: 100
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Flamethrower  
+- Shadow Ball  
+- Psychic  
 
-Torkoal @ White Herb
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Marshadow  
+Ability: Technician  
+Level: 100 
+Tera Type: Stellar
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Revenge  
+- Spectral Thief  
+- Shadow Punch
 
 === TRAINER_NORMAN_2 ===
 Name: DUST
@@ -17632,73 +18635,276 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 - Earth Power
 
-=== TRAINER_DIDDYTRON ===
-Name: DIDDYTRON
-Class: Pokemaniac
-Pic: Swimmer
+=== TRAINER_BRENDAN_CHAMPION ===
+Name: GRONND
+Class: Rival
+Pic: Brendan
 Gender: Male
-Music: Aqua
-Double Battle: Yes
-AI: Check Viability / Try To Faint / Smart Mon Choices / Ace Pokemon / HP AWARE
+Music: Male
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
 
-Lickilicky (M) @ Sitrus Berry  
-Ability: Own Tempo  
-Level: 50
-EVs: 248 HP / 252 Atk / 8 SpD  
-Adamant Nature  
-- Body Press  
-- Body Slam  
-- Lick  
-- Curse  
-
-Typhlosion-Hisui (M) @ Spell Tag  
-Ability: Blaze  
-Level: 50
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Solar Beam  
-- Flamethrower  
-- Infernal Parade  
-- Shadow Ball  
-
-Octillery (M) @ Wise Glasses  
-Ability: Suction Cups  
-Level: 50
-EVs: 252 HP / 252 Atk / 4 SpA  
+Aggron (M) @ Life Orb  
+Ability: Rock Head  
+Level: 45  
+EVs: 248 HP / 252 Atk / 8 SpA  
 Brave Nature  
-- Liquidation  
-- Seed Bomb  
-- Flamethrower  
-- Psychic  
+- Stone Edge  
+- Return  
+- Body Press  
+- Flash Cannon  
 
-Hypno (M) @ Twisted Spoon  
-Ability: Inner Focus  
-Level: 50 
+Gallade @ Galladite  
+Ability: Sharpness  
+Level: 45   
+EVs: 248 Atk / 12 SpD / 244 Spe  
+Jolly Nature  
+- Psycho Cut  
+- Close Combat  
+- Triple Axel  
+- Night Slash  
+
+Marowak-Alola (M) @ Thick Club  
+Ability: Cursed Body  
+Level: 45  
+EVs: 248 HP / 244 Atk / 12 SpD / 4 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Shadow Bone  
+- Earthquake  
+- Stone Edge  
+
+Ninjask (M) @ Life Orb  
+Ability: Speed Boost  
+Level: 45  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- X-Scissor  
+- Dual Wingbeat  
+- Night Slash  
+- Aerial Ace  
+
+Sceptile @ Sitrus Berry  
+Ability: Unburden  
+Level: 45   
+EVs: 8 Atk / 248 SpA / 248 Spe  
+Mild Nature  
+- Energy Ball  
+- Dragon Pulse  
+- Drain Punch  
+- Acrobatics  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+Level: 50  
+Shiny: Yes  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
-- Psychic  
-- Dazzling Gleam  
-- Signal Beam  
+- Luster Purge  
+- Recover  
+- Dragon Pulse  
+- Thunderbolt
+
+=== TRAINER_MAY_CHAMPION_MUDKIP ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Jolteon (F) @ Magnet  
+Ability: Volt Absorb  
+Level: 45  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Double-Edge  
+- Iron Tail  
 - Shadow Ball  
 
-Mr. Rime (M) @ Never-Melt Ice  
-Ability: Ice Body  
-Level: 50
-EVs: 248 HP / 8 Atk / 252 SpA  
-Quiet Nature  
-- Psychic  
-- Ice Beam  
-- Thunderbolt  
-- Fake Out  
+Corviknight @ Sharp Beak  
+Ability: Mirror Armor  
+Level: 45    
+EVs: 248 HP / 248 Atk / 8 SpD  
+Adamant Nature  
+- Brave Bird  
+- Body Press  
+- U-turn  
+- Iron Head  
 
-Slaking (M) @ Flame Orb  
-Ability: Truant  
-Level: 50  
+Ditto @ Leftovers  
+Ability: Imposter  
+Level: 45   
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Slowbro-Galar (M) @ Poison Barb  
+Ability: Quick Draw  
+Level: 33  
+EVs: 232 HP / 252 SpA / 20 SpD  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Future Sight  
+- Hydro Pump  
+
+Swampert (F) @ Swampertite 
+Ability: Torrent  
+Level: 45  
+Shiny: Yes    
+EVs: 244 HP / 252 Atk / 8 SpA / 4 Spe  
+Lonely Nature  
+- Liquidation  
+- Sludge Wave  
+- Earthquake  
+- Body Press  
+
+Silvally @ Psychic Memory  
+Ability: RKS System  
+Level: 50    
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Multi-Attack  
+- Flamethrower  
+- Shadow Ball  
+- Signal Beam
+
+=== TRAINER_MAY_CHAMPION_TREEKO ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Glaceon (F) @ Never-Melt Ice  
+Ability: Snow Cloak  
+Level: 45  
+EVs: 248 HP / 244 SpA / 8 SpD / 4 Spe  
+Modest Nature  
+- Ice Beam  
+- Dig  
+- Shadow Ball  
+- Hyper Voice  
+
+Kilowattrel @ Expert Belt  
+Ability: Wind Power  
+Level: 45    
+EVs: 252 SpA / 4 SpD / 244 Spe  
+Timid Nature  
+- Tailwind  
+- Thunderbolt  
+- U-turn  
+- Weather Ball  
+
+Ditto @ Aguav Berry  
+Ability: Imposter  
+Level: 45  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Slowbro-Galar @ Poison Barb  
+Ability: Quick Draw  
+Level: 45  
+EVs: 248 HP / 252 SpA / 4 SpD / 4 Spe  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Expanding Force  
+- Fire Blast  
+
+Swampert (F) @ Swampertite
+Ability: Torrent  
+Level: 45  
+Shiny: Yes   
+EVs: 244 HP / 252 Atk / 8 SpA / 4 Spe  
+Lonely Nature  
+- Liquidation  
+- Sludge Wave  
+- Earthquake  
+- Body Press  
+
+Silvally @ Fairy Memory  
+Ability: RKS System    
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Multi-Attack  
+- Double-Edge  
+- Crunch  
+- Ice Beam
+
+=== TRAINER_MAY_CHAMPION_TORCHIC ===
+Name: MAY
+Class: Rival
+Pic: May
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Smart Trainer / Omniscient / Ace Pokemon / Smart Switching
+
+Vaporeon (F) @ Mystic Water  
+Ability: Water Absorb  
+Level: 45  
+EVs: 252 HP / 252 SpA  
+Modest Nature  
+- Hydro Pump  
+- Hyper Voice  
+- Flip Turn  
+- Ice Beam  
+
+Kleavor (F) @ Sitrus Berry  
+Ability: Sharpness  
+Level: 45  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
+- Stone Axe  
+- Acrobatics  
+- Close Combat  
+- X-Scissor  
+
+Ditto @ Life Orb  
+Ability: Imposter  
+Level: 45  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 30 Atk  
+- Transform  
+
+Slowbro-Galar (F) @ Poison Barb  
+Ability: Quick Draw  
+Level: 45  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Shell Side Arm  
+- Calm Mind  
+- Psychic  
+- Flamethrower  
+
+Swampert (F) @ Swampertite 
+Ability: Torrent  
+Level: 45  
+Shiny: Yes   
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
 - Outrage  
-- Earthquake  
-- Play Rough  
-- Facade
+- Liquidation  
+- Darkest Lariat  
+- Body Press  
+
+Silvally @ Ice Memory  
+Ability: RKS System  
+Level: 50  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Multi-Attack  
+- Zen Headbutt  
+- Hyper Voice  
+- Flash Cannon

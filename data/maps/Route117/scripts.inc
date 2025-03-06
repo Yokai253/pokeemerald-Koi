@@ -586,7 +586,7 @@ RanAway::
 
 Won_Text_0:
 # 276 "data/maps/Route117/scripts.pory"
-	.string "damn didnt even catch it bruh.$"
+	.string "Guess you're really bad at catching things.$"
 
 Caught_Text_0:
 # 284 "data/maps/Route117/scripts.pory"
@@ -594,4 +594,4 @@ Caught_Text_0:
 
 RanAway_Text_0:
 # 293 "data/maps/Route117/scripts.pory"
-	.string "fucking scaredy cat.$"
+	.string "Why would you run from it.$"

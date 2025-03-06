@@ -311,7 +311,7 @@ static const struct MatchCallRival sBrendanMatchCallHeader =
     .playerGender = FEMALE,
     .flag = FLAG_ENABLE_RIVAL_MATCH_CALL,
     .desc = gText_MayBrendanMatchCallDesc,
-    .name = gText_ExpandedPlaceholder_Brendan,
+    .name = gText_ExpandedPlaceholder_Gronnd,
     .textData = sBrendanTextScripts
 };
 

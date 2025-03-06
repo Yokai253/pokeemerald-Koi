@@ -121,40 +121,44 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "WALLY: Hi! {PLAYER}!\p"
+	.string "KAI: Hi! {PLAYER}!\p"
 	.string "I bet you're surprised to see me here!\p"
 	.string "I made it all the way here, and it's\n"
 	.string "all thanks to you!\p"
 	.string "{PLAYER}, losing to you that time\n"
-	.string "made me stronger!\p"
-	.string "But I'm not going to lose anymore!\p"
+	.string "made me want to beat you.\p"
+	.string "I wanted to be stronger, able to win.\n"
+	.string "So I trained.\l"
+	.string "I finally think im ready to win!\p"
+	.string "So I'm not going to lose anymore!\p"
 	.string "I'm going to win! For the POKéMON who\n"
 	.string "gave me courage and strength!\p"
-	.string "Okay… Here I come!$"
+	.string "Prepare for you to be the one losing!$"
 
 VictoryRoad_1F_Text_WallyEntranceDefeat:
 	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "{PLAYER}, you are strong, after all\l"
+	.string "this time…$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
-	.string "WALLY: I couldn't beat you today,\n"
+	.string "KAI: I couldn't beat you today,\n"
 	.string "{PLAYER}, but one of these days, I'll\l"
-	.string "catch up to you!$"
+	.string "win and beat you once and for all!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "WALLY: Hi! {PLAYER}!\p"
+	.string "KAI: Hi! {PLAYER}!\p"
 	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
-	.string "Okay… Here I come!$"
+	.string "time. I wanted to show you, {PLAYER}.\p"
+	.string "Lets do this!$"
 
 VictoryRoad_1F_Text_WallyDefeat:
-	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "Wow…\n"
+	.string "I lost… again.!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "WALLY: I couldn't beat you this time,\n"
+	.string "KAI: I couldn't beat you this time,\n"
 	.string "too… But one of these days, {PLAYER},\l"
-	.string "I'm going to catch up to you…\p"
+	.string "I'm going to catch up to you.\p"
 	.string "And challenge the POKéMON LEAGUE!$"
 
 VictoryRoad_1F_Text_EdgarIntro:

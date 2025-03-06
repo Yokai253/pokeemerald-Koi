@@ -205,6 +205,53 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .iconPalIndex = 1,
     },
 
+    [SPECIES_JIBANYAN] = 
+    {
+        .baseHP         = 80,
+        .baseAttack     = 130,
+        .baseDefense    = 70,
+        .baseSpeed      = 100,
+        .baseSpAttack   = 130,
+        .baseSpDefense  = 70,
+        .types = MON_TYPES(TYPE_FIRE, TYPE_FAIRY),
+        .catchRate = 45,
+        .expYield = 234,
+        .evYield_Attack = 3,
+        .genderRatio = MON_MALE,
+        .eggCycles = 120,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_MEDIUM_SLOW,
+        .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_MONSTER),
+        .abilities = { ABILITY_MOXIE, ABILITY_NONE, ABILITY_NONE },
+        .bodyColor = BODY_COLOR_RED,
+        .speciesName = _("Jibanyan"),
+        .cryId = CRY_JIBANYAN,
+        .natDexNum = NATIONAL_DEX_JIBANYAN,
+        .categoryName = _("Ghostly Cat"),
+        .height = 6.985,
+        .weight = 63.5029,
+        .description = COMPOUND_STRING(
+            "After being run over by a truck, he\n"
+            "inspirits an intersection and seeks\n"
+            "to get his revenge on passing trucks.\n"
+            "He is rumored to be a 'Yokai'"),
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 290,
+        .trainerOffset = 2,
+        .frontPic = gMonFrontPic_Jibanyan,
+        .frontPicSize = MON_COORDS_SIZE(64, 64),
+        .frontPicYOffset = 0,
+        .frontAnimFrames = sAnims_Jibanyan,
+        .frontAnimId = ANIM_V_SQUISH_AND_BOUNCE,
+        .frontAnimDelay = 15,
+        .enemyMonElevation = 0,
+        .palette = gMonPalette_Jibanyan,  
+        .iconSprite = gMonIcon_Jibanyan,
+        .iconPalIndex = 0,
+        SHADOW(0, 10, SHADOW_SIZE_S)
+    },
+
     /* You may add any custom species below this point based on the following structure: */
 
     /*

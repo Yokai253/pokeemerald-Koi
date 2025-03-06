@@ -10157,6 +10157,14 @@ PLACEHOLDER_ANIM_SINGLE_FRAME(TerapagosStellar);
 PLACEHOLDER_ANIM_SINGLE_FRAME(Pecharunt);
 #endif //P_FAMILY_PECHARUNT
 
+static const union AnimCmd sAnim_Jibanyan_1[] =
+{
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_FRAME(1, 60),
+    ANIMCMD_FRAME(0, 30),
+    ANIMCMD_END,
+};
+
 static const union AnimCmd sAnim_Egg_1[] =
 {
     ANIMCMD_FRAME(0, 6),
@@ -12830,4 +12838,5 @@ SINGLE_ANIMATION(TerapagosStellar);
 #if P_FAMILY_PECHARUNT
 SINGLE_ANIMATION(Pecharunt);
 #endif //P_FAMILY_PECHARUNT
+SINGLE_ANIMATION(Jibanyan);
 SINGLE_ANIMATION(Egg);
