@@ -4692,7 +4692,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Follower = {
 };
 
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Shaymin = {
-     .tileTag = TAG_NONE,
+    .tileTag = TAG_NONE,
     .paletteTag = OBJ_EVENT_PAL_TAG_SHAYMIN,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
     .size = 512,
@@ -4708,6 +4708,42 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Shaymin = {
     .anims = sAnimTable_Standard,
     .images = sPicTable_ShayminOld,
     .affineAnims = gDummySpriteAffineAnimTable,
-
 };
 
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RagingBoltOld = {
+    .tileTag = TAG_NONE,
+    .paletteTag = OBJ_EVENT_PAL_TAG_RAGINGBOLT,
+    .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
+    .size = 1152,
+    .width = 48,
+    .height = 48,
+    .paletteSlot = PALSLOT_NPC_1,
+    .shadowSize = SHADOW_SIZE_M,
+    .inanimate = FALSE,
+    .compressed = FALSE,
+    .tracks = TRACKS_FOOT,
+    .oam = &gObjectEventBaseOam_32x32,
+    .subspriteTables = sOamTables_48x48,
+    .anims = sAnimTable_Standard,
+    .images = sPicTable_RagingBoltOld,
+    .affineAnims = gDummySpriteAffineAnimTable,
+};
+
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_PorygonZOld = {
+    .tileTag = TAG_NONE,
+    .paletteTag = OBJ_EVENT_PAL_TAG_PORYGONZ,
+    .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
+    .size = 288,
+    .width = 24,
+    .height = 24,
+    .paletteSlot = PALSLOT_NPC_1,
+    .shadowSize = SHADOW_SIZE_M,
+    .inanimate = FALSE,
+    .compressed = FALSE,
+    .tracks = TRACKS_FOOT,
+    .oam = &gObjectEventBaseOam_32x32,
+    .subspriteTables = sOamTables_24x24,
+    .anims = sAnimTable_Standard,
+    .images = sPicTable_PorygonZOld,
+    .affineAnims = gDummySpriteAffineAnimTable,
+};

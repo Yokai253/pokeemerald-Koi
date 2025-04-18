@@ -1158,3 +1158,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/LittlerootTown_BlusHouse/scripts.inc"
 	.include "data/maps/LittlerootTown_BlusHouseFloor2/scripts.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/Shaymins_Garden/scripts.inc"

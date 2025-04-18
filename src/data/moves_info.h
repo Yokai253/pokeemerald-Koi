@@ -21030,6 +21030,46 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .battleAnimScript = gBattleAnimMove_PyroBall,
     },
 
+    [MOVE_FIFTEEN_ROUNDS] = 
+    {
+        .name = COMPOUND_STRING("15 Rounds"),
+        .description = COMPOUND_STRING(
+            "A volley of bullets.\n"
+            "Hits 2-15 times."),
+        .effect = EFFECT_MULTI_HIT,
+        .power = 15,
+        .type = TYPE_STEEL,
+        .accuracy = 95,
+        .pp = 5,
+        .target = MOVE_TARGET_SELECTED,
+        .priority = 0,
+        .category = DAMAGE_CATEGORY_SPECIAL,
+        .strikeCount = 15,
+        .battleAnimScript = gBattleAnimMove_BulletSeed,
+    },
+
+    [MOVE_SPIDER_DANCE] =
+    {
+        .name = COMPOUND_STRING("Spider Dance"),
+        .description = COMPOUND_STRING(
+            "An arachnid dance that ups\n"
+            "Attack and lowers Speed."),
+        .effect = EFFECT_DRAGON_DANCE,
+        .power = 0,
+        .type = TYPE_BUG,
+        .accuracy = 0,
+        .pp = 5,
+        .target = MOVE_TARGET_USER,
+        .priority = 0,
+        .category = DAMAGE_CATEGORY_STATUS,
+        .danceMove = TRUE,
+        .snatchAffected = TRUE,
+        .ignoresProtect = TRUE,
+        .mirrorMoveBanned = TRUE,
+        .battleAnimScript = gBattleAnimMove_DragonDance,
+        .validApprenticeMove = TRUE,
+    },
+
     // Z-Moves
     [MOVE_BREAKNECK_BLITZ] =
     {

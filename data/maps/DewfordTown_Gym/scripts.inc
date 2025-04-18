@@ -286,11 +286,11 @@ DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "DEWFORD's GYM LEADER GABRIEL commands\n"
-	.string "FIGHTING-type POKéMON.\p"
-	.string "Going against him with NORMAL-type\n"
+	.string "DARK-type POKéMON.\p"
+	.string "Going against him with PSYCHIC-type\n"
 	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
+	.string "DARK POKéMON will lay a serious\n"
+	.string "smack down on PSYCHIC POKéMON,\l"
 	.string "so be careful!\p"
 	.string "What's worse, the GYM is as dark as\n"
 	.string "the ocean floor.\p"
@@ -307,10 +307,10 @@ DewfordTown_Gym_Text_TakaoIntro:
 	.string "Come on!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-	.string "Not enough power…$"
+	.string "Not enough darkness……$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
+	.string "Your skill overcame my darkness!\n"
 	.string "Your technique is commendable!$"
 
 DewfordTown_Gym_Text_JocelynIntro:

@@ -378,6 +378,10 @@ const u32 gObjectEventPic_GroudonOld[] = INCBIN_U32("graphics/object_events/pics
 const u32 gObjectEventPic_KyogreOld[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/kyogre.4bpp");
 const u32 gObjectEventPic_ShayminOld[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/shaymin.4bpp");
 const u16 gObjectEventPal_ShayminOld[] = INCBIN_U16("graphics/object_events/palettes/shaymin.gbapal");
+const u32 gObjectEventPic_RagingBoltOld[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/raging_bolt.4bpp");
+const u16 gObjectEventPal_RagingBoltOld[] = INCBIN_U16("graphics/object_events/palettes/raging_bolt.gbapal");
+const u32 gObjectEventPic_PorygonZOld[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/porygonz.4bpp");
+const u16 gObjectEventPal_PorygonZOld[] = INCBIN_U16("graphics/object_events/palettes/porygonz.gbapal");
 
 const u32 gObjectEventPic_VigorothMover[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/vigoroth_mover.4bpp");
 const u32 gObjectEventPic_SudowoodoTree[] = INCBIN_U32("graphics/object_events/pics/pokemon_old/sudowoodo_tree.4bpp");

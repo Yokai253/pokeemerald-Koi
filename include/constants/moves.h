@@ -912,8 +912,10 @@
 
 // Newly Added Moves
 #define MOVE_KAISER_IMPACT 849
+#define MOVE_FIFTEEN_ROUNDS 850
+#define MOVE_SPIDER_DANCE 851
 
-#define MOVES_COUNT_NEW 850
+#define MOVES_COUNT_NEW 852
 
 
 #define MOVES_COUNT         MOVES_COUNT_NEW

@@ -172,7 +172,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .iconPalIndex = 1,
     },
 
-    [SPECIES_JIBANYAN] = 
+   /* [SPECIES_JIBANYAN] = 
     {
         .baseHP         = 80,
         .baseAttack     = 130,
@@ -209,7 +209,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .frontPic = gMonFrontPic_Jibanyan,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
         .frontPicYOffset = 0,
-        .frontAnimFrames = sAnims_Jibanyan,
+        .frontAnimFrames = sAnims_Jibanyan_1,
         .frontAnimId = ANIM_V_SQUISH_AND_BOUNCE,
         .frontAnimDelay = 15,
         .enemyMonElevation = 0,
@@ -218,6 +218,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .iconPalIndex = 0,
         SHADOW(0, 10, SHADOW_SIZE_S)
     },
+    */
 
     /* You may add any custom species below this point based on the following structure: */
 

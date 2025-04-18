@@ -3350,6 +3350,8 @@ extern const u16 gObjectEventPal_Glacia[];
 extern const u16 gObjectEventPal_Roxxane[];
 extern const u16 gObjectEventPal_ShayminOld[];
 extern const u16 gObjectEventPal_MegaStone[];
+extern const u16 gObjectEventPal_RagingBoltOld[];
+extern const u16 gObjectEventPal_PorygonZOld[];
 
 // Mail
 extern const u16 gMailPalette_Orange[];

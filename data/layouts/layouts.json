@@ -4450,6 +4450,16 @@
       "secondary_tileset": "gTileset_BrendansMaysHouse",
       "border_filepath": "data/layouts/LittlerootTown_BlusHouseFloor2/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown_BlusHouseFloor2/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHAYMINS_GARDEN",
+      "name": "Shaymins_Garden_Layout",
+      "width": 21,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Shaymins_Garden/border.bin",
+      "blockdata_filepath": "data/layouts/Shaymins_Garden/map.bin"
     }
   ]
 }

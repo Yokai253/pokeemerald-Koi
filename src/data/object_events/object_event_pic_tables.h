@@ -1241,6 +1241,19 @@ static const struct SpriteFrameImage sPicTable_ShayminOld[] = {
     overworld_frame(gObjectEventPic_ShayminOld, 4, 4, 5),
 };
 
+static const struct SpriteFrameImage sPicTable_RagingBoltOld[] = {
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 0),
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 1),
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 2),
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 3),
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 4),
+    overworld_frame(gObjectEventPic_RagingBoltOld, 6, 6, 5),
+};
+
+static const struct SpriteFrameImage sPicTable_PorygonZOld[] = {
+    overworld_frame(gObjectEventPic_PorygonZOld, 3, 3, 0),
+};
+
 static const struct SpriteFrameImage sPicTable_DusclopsOld[] = {
     overworld_ascending_frames(gObjectEventPic_DusclopsOld, 2, 4),
 };

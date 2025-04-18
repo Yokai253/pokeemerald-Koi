@@ -43,13 +43,13 @@
 #define TEMP_FLAGS_END   FLAG_TEMP_1F
 #define NUM_TEMP_FLAGS   (TEMP_FLAGS_END - TEMP_FLAGS_START + 1)
 
-#define FLAG_HATERGUY_BATTLE    0x20 // HaterGuy Fight Flag
-#define FLAG_SHAYMIN_ENCOUNTER    0x21 // Shaymin Fight Flag
-#define FLAG_UNUSED_0x022    0x22 // Unused Flag
-#define FLAG_UNUSED_0x023    0x23 // Unused Flag
-#define FLAG_UNUSED_0x024    0x24 // Unused Flag
-#define FLAG_UNUSED_0x025    0x25 // Unused Flag
-#define FLAG_UNUSED_0x026    0x26 // Unused Flag
+#define FLAG_HATERGUY_BATTLE            0x20 // HaterGuy Fight Flag
+#define FLAG_SHAYMIN_ENCOUNTER          0x21 // Shaymin Fight Flag
+#define FLAG_RAGING_BOLT_ENCOUNTER      0x22 // Raging Bolt Fight Flag
+#define FLAG_PORYGONZ_ENCOUNTER         0x23 // Porygon Z Fight Flag
+#define FLAG_UNUSED_0x024               0x24 // Unused Flag
+#define FLAG_UNUSED_0x025               0x25 // Unused Flag
+#define FLAG_UNUSED_0x026               0x26 // Unused Flag
 #define FLAG_UNUSED_0x027    0x27 // Unused Flag
 #define FLAG_UNUSED_0x028    0x28 // Unused Flag
 #define FLAG_UNUSED_0x029    0x29 // Unused Flag
@@ -1247,23 +1247,23 @@
 #define FLAG_ITEM_SEAFLOOR_CAVERN_ROOM_2_AGGRONITE                  0x4A8 // Aggronite @ Seafloor Cavern Room 2
 #define FLAG_ITEM_ROUTE_114_FOSSIL_MANIACS_HOUSE_BANETTITE          0x4A9 // Banettite @ Fossil Maniacs 
 #define FLAG_ITEM_ROUTE_111_TYRANITARITE                            0x4AA // Tyranitarite @ Route 111
-#define FLAG_UNUSED_0x4AB                                           0x4AB // Unused Flag
-#define FLAG_UNUSED_0x4AC                                           0x4AC // Unused Flag
-#define FLAG_UNUSED_0x4AD                                           0x4AD // Unused Flag
-#define FLAG_UNUSED_0x4AE                                           0x4AE // Unused Flag
-#define FLAG_UNUSED_0x4AF                                           0x4AF // Unused Flag
-#define FLAG_UNUSED_0x4B0                                           0x4B0 // Unused Flag
-#define FLAG_UNUSED_0x4B1                                           0x4B1 // Unused Flag
-#define FLAG_UNUSED_0x4B2                                           0x4B2 // Unused Flag
-#define FLAG_UNUSED_0x4B3                                           0x4B3 // Unused Flag
-#define FLAG_UNUSED_0x4B4                                           0x4B4 // Unused Flag
-#define FLAG_UNUSED_0x4B5                                           0x4B5 // Unused Flag
-#define FLAG_UNUSED_0x4B6                                           0x4B6 // Unused Flag
-#define FLAG_UNUSED_0x4B7                                           0x4B7 // Unused Flag
-#define FLAG_UNUSED_0x4B8                                           0x4B8 // Unused Flag
-#define FLAG_UNUSED_0x4B9                                           0x4B9 // Unused Flag
-#define FLAG_UNUSED_0x4BA                                           0x4BA // Unused Flag
-#define FLAG_UNUSED_0x4BB                                           0x4BB // Unused Flag
+#define FLAG_ITEM_ROUTE_110_SCIZORITE                               0x4AB // Scizorite @ Route 110
+#define FLAG_ITEM_SAFARI_ZONE_SOUTH_EAST_PINSIRITE                  0x4AC // Pinsirite @ South East Safari Zone
+#define FLAG_ITEM_ROUTE_109_AERODACTYLITE                           0x4AD // Aerodactylite @ Route 109
+#define FLAG_ITEM_ROUTE_123_LUCARIONITE                             0x4AE // Lucarionite @ Route 123
+#define FLAG_ITEM_UNDERWATER_126_GYARADOSITE                        0x4AF // Gyradosite @ Underwater Route 126
+#define FLAG_ITEM_SAFARI_ZONE_NORTH_EAST_HERACRONITE                0x4B0 // Heracronite @ North East Safari Zone
+#define FLAG_ITEM_MIRAGE_TOWER_4F_GARCHOMPITE                       0x4B1 // Garchompite @ Mirage Tower
+#define FLAG_ITEM_SKYPILLAR_TOP_LATIOSITE                           0x4B2 // Latiosite @ SkyPillar Top Floor
+#define FLAG_ITEM_SKYPILLAR_TOP_LATIASITE                           0x4B3 // Latiasite @ SkyPillar Top Floor
+#define FLAG_ITEM_SKYPILLAR_5F_ALTARIANITE                          0x4B4 // Altarianite @ SkyPillar 5F
+#define FLAG_ITEM_ALTERING_CAVE_SALAMENCITE                         0x4B5 // Salamencite @ Altering Cave 
+#define FLAG_ITEM_LILYCOVE_CITY_AUDINITE                            0x4B6 // Audinite @ Lilycove City
+#define FLAG_ITEM_SLATEPORT_CITY_LOPUNNITE                          0x4B7 // Lopunnite @ Slateport City
+#define FLAG_ITEM_MT_PYRE_SUMMIT_PIDGEOTITE                         0x4B8 // Pidgeotite @ Mt Pyre Summit
+#define FLAG_ITEM_SHOAL_CAVE_LOW_TIDE_ENTRANCE_ROOM_GALLADITE       0x4B9 // Galladite @ Shoal Cave Low Tide Entrance Room
+#define FLAG_ITEM_ROUTE_119_BEEDRILLITE                             0x4BA // Beedrillite @ Route 119
+#define FLAG_ITEM_GRANITE_CAVE_STEVENS_ROOM_METAGROSSITE            0x4BB // Metagrossite @ Granite Cave Stevens Room
 #define FLAG_UNUSED_0x4BC                                           0x4BC // Unused Flag
 #define FLAG_UNUSED_0x4BD                                           0x4BD // Unused Flag
 #define FLAG_UNUSED_0x4BE                                           0x4BE // Unused Flag

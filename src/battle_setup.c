@@ -493,13 +493,20 @@ void BattleSetup_StartLegendaryBattle(void)
         break;
     case SPECIES_LUGIA:
     case SPECIES_HO_OH:
+    case SPECIES_SHAYMIN:
+    case SPECIES_RAGING_BOLT:
+    case SPECIES_PORYGON_Z:
+    case SPECIES_TING_LU:
+    case SPECIES_GRENINJA:
+    case SPECIES_BLACEPHALON:
+    case SPECIES_URSALUNA:
+    case SPECIES_MANAPHY:
+    case SPECIES_KELDEO:
         CreateBattleStartTask(B_TRANSITION_BLUR, MUS_RG_VS_LEGEND);
         break;
     case SPECIES_MEW:
         CreateBattleStartTask(B_TRANSITION_GRID_SQUARES, MUS_VS_MEW);
-        break;
-    case SPECIES_SHAYMIN:
-        CreateBattleStartTask(B_TRANSITION_BLUR, MUS_RG_VS_LEGEND);    
+        break;   
     }
 
     IncrementGameStat(GAME_STAT_TOTAL_BATTLES);
